@@ -1,4 +1,4 @@
-from utils.tools import operator_str
+from utils.tools import operator_to_str
 
 
 class Neuron:
@@ -19,7 +19,7 @@ class Neuron:
         print(
             f"{condition.attribute} "
             f"{row[condition.attribute]} "
-            f"{operator_str(condition.operator)} "
+            f"{operator_to_str(condition.operator)} "
             f"{condition.value}"
         )
 

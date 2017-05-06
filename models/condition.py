@@ -1,6 +1,6 @@
 import random
 from operator import gt, lt
-from utils.tools import historical_values, operator_str
+from utils.tools import historical_values, operator_to_str
 
 
 class Condition:
@@ -12,7 +12,7 @@ class Condition:
         self.value = self.get_random_value()
 
     def __str__(self):
-        return f"{self.attribute} {operator_str(self.operator)} {self.value}"
+        return f"{self.attribute} {operator_to_str(self.operator)} {self.value}"
 
     def evaluate(self, row):
         """

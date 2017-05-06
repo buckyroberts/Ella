@@ -1,3 +1,4 @@
+import json
 from operator import gt, lt
 
 
@@ -13,7 +14,17 @@ def historical_values(data):
     return results
 
 
-def operator_str(func):
+def json_to_dict(file):
+    """
+    Convert JSON file to dict
+    """
+
+    with open(file, 'r') as f:
+        data = json.load(f)
+    return data
+
+
+def operator_to_str(func):
     """
     Convert operator function to human readable symbol
     """

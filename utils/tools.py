@@ -1,4 +1,3 @@
-import random
 from operator import gt, lt
 
 
@@ -23,30 +22,3 @@ def operator_str(func):
         return '>'
     if func == lt:
         return '<'
-
-
-def random_attr_and_value(data):
-    """
-    Random numeric attribute, random historical value
-    """
-
-    attr = random_numeric_attr(data)
-    history = historical_values(data)
-    value = random.choice(list(history[attr]))
-    return attr, value
-
-
-def random_numeric_attr(data):
-    """
-    Random numeric attribute from data (uses first item in data for analysis)
-    """
-
-    return random.choice([k for k, _ in data[0].items() if isinstance(data[0][k], (int, float, complex))])
-
-
-def random_operator():
-    """
-    Random comparison operator
-    """
-
-    return random.choice([gt, lt])

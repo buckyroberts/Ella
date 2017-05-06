@@ -17,8 +17,8 @@ class Neuron:
         """
 
         print(
-            f"{condition.attr} "
-            f"{row[condition.attr]} "
+            f"{condition.attribute} "
+            f"{row[condition.attribute]} "
             f"{operator_str(condition.operator)} "
             f"{condition.value}"
         )

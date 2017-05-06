@@ -11,4 +11,8 @@ class Condition:
         return f"{self.attr} {operator_str(self.operator)} {self.value}"
 
     def evaluate(self, row):
+        """
+        Evaluate row with condition
+        """
+
         return self.operator(row[self.attr], self.value)

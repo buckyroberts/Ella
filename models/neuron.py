@@ -12,6 +12,10 @@ class Neuron:
 
     @staticmethod
     def display_signal(condition, row):
+        """
+        Display details of row evaluation by condition
+        """
+
         print(
             f"{condition.attr} "
             f"{row[condition.attr]} "
@@ -20,6 +24,10 @@ class Neuron:
         )
 
     def signal(self, row):
+        """
+        Analyze row and invoke action events if condition is met
+        """
+
         if self.condition.evaluate(row):
             self.display_signal(self.condition, row)
             self.action.event(row)

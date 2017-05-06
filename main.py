@@ -1,5 +1,5 @@
 from models.brain import Brain
-from simulator.trader import Trader
+from simulators.stock_market.trader import Trader
 
 
 if __name__ == "__main__":

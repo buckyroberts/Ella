@@ -16,3 +16,65 @@ This program is designed to iterate through a dataset and may choose to perform 
 ## Diagram of Basic Neuron
 
 ![](http://i.imgur.com/wzIT8Av.png)
+
+## Example Usage
+
+Ella works by first analyzing the dataset provided by the user:
+```
+{'date': '1/1/17', 'price': 25.48, 'volume': 5500},
+{'date': '1/2/17', 'price': 19.64, 'volume': 1600},
+{'date': '1/3/17', 'price': 25.57, 'volume': 4800},
+{'date': '1/4/17', 'price': 32.63, 'volume': 2100},
+{'date': '1/5/17', 'price': 29.85, 'volume': 3700}
+```
+
+She will then begin building the neurons by first generating random conditions based on the data.
+```
+volume > 3700
+price < 19.64
+```
+
+Once conditions have been created, they are mapped to an action (creating the full neuron):
+```
+volume > 3700 - BUY
+price < 19.64 - SELL
+```
+
+Ella will continue to create neurons until all actions have been mapped to a condition and the brain is complete. This
+will ensure that the brain will have the ability to perform all possible functions.
+
+Once full brain has been constructed, Ella will iterate over the dataset row by row and invoke all action events (fire
+the neuron) if a condition is met. Therefore for each row analyzed, Ella may invoke multiple, a single, or no action 
+events depending on how many conditions were met. 
+
+Example using the above neurons and dataset:
+```
+Starting value:
+$1000.00
+ 
+Conditions:
+volume > 3700 - BUY
+price < 19.64 - SELL
+ 
+---------- ANALYSIS ----------
+ 
+Day 1 - {'price': 25.48, 'volume': 5500}
+volume 5500 > 3700 -> BUY
+ 
+Day 2 - {'price': 19.64, 'volume': 1600}
+> NO ACTION
+ 
+Day 3 - {'price': 25.57, 'volume': 4800}
+volume 4800 > 3700 -> BUY
+ 
+Day 4 - {'price': 32.63, 'volume': 2100}
+> NO ACTION
+ 
+Day 5 - {'price': 29.85, 'volume': 3700}
+> NO ACTION
+ 
+---------- RESULTS ----------
+ 
+Final value:
+$1008.65
+```

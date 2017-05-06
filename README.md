@@ -78,3 +78,22 @@ Day 5 - {'price': 29.85, 'volume': 3700}
 Final value:
 $1008.65
 ```
+
+## Developers
+
+Feel free to contribute any by providing any bug fixes, suggestions, ideas, or anything else that may be of help.
+
+Also, please note that this is just a small program I wrote this morning because I was bored waiting for the hockey game 
+to start. It will most likely not be actively maintained, however I will check back frequently for pull requests and may
+also add some new features in my spare time. 
+
+- Python 3.6 (or newer) required
+
+## Links
+
+- [Support](https://www.patreon.com/thenewboston)
+- [thenewboston.com](https://thenewboston.com/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [Google+](https://plus.google.com/+BuckyRoberts)
+- [reddit](https://www.reddit.com/r/thenewboston/)

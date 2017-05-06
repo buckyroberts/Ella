@@ -1,5 +1,5 @@
 from os.path import dirname, join, realpath
-from utils.tools import json_to_dict
+from utils.tools import json_to_list
 
 
 class Trader:
@@ -7,7 +7,7 @@ class Trader:
     def __init__(self):
         self.cash = 1000
         self.portfolio = []
-        self.data = json_to_dict(join(dirname(realpath(__file__)), 'data.json'))
+        self.data = json_to_list(join(dirname(realpath(__file__)), 'data.json'))
         self.actions = {
             'BUY': lambda stock: self.buy(stock),
             'SELL': lambda stock: self.sell(stock['price'])

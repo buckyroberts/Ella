@@ -25,7 +25,7 @@ class Neuron:
 
     def signal(self, row):
         """
-        Analyze row and invoke action events if condition is met
+        Analyze row and invoke action event if condition is met
         """
 
         if self.condition.evaluate(row):

@@ -14,9 +14,9 @@ def historical_values(data):
     return results
 
 
-def json_to_list(file):
+def read_json(file):
     """
-    Convert JSON file to list
+    Read JSON file
     """
 
     with open(file, 'r') as f:

@@ -1,7 +1,7 @@
 {
   "neurons": [
-    "high < 9.524e-05 - BUY",
-    "low > 9.323e-05 - SELL"
+    "weightedAverage < 9.252e-05 - BUY",
+    "close > 9.447e-05 - SELL"
   ],
-  "results": 1000.0019117300009
+  "results": 1000.0019328900006
 }

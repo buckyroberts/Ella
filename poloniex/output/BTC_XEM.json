@@ -1,7 +1,7 @@
 {
   "neurons": [
-    "open < 4.697e-05 - BUY",
-    "quoteVolume > 8229940.8394995 - SELL"
+    "quoteVolume < 6735384.078721 - BUY",
+    "high > 5.956e-05 - SELL"
   ],
-  "results": 1000.0043463599999
+  "results": 1000.0048906700001
 }

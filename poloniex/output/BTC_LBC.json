@@ -1,7 +1,7 @@
 {
   "neurons": [
-    "date < 1494120600 - BUY",
-    "open > 6.486e-05 - SELL"
+    "low < 6.468e-05 - BUY",
+    "high > 6.45e-05 - SELL"
   ],
-  "results": 1000.0032305899996
+  "results": 1000.0033227299997
 }

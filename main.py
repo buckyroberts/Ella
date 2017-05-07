@@ -24,5 +24,5 @@ if __name__ == "__main__":
     # download_market_data(tickers)
 
     for ticker in tickers:
-        for _ in range(100):
+        for _ in range(1000):
             run_poloniex_trader(ticker)

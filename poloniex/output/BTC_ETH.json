@@ -1,7 +1,7 @@
 {
   "neurons": [
-    "open < 0.05543815 - BUY",
-    "open > 0.05889 - SELL"
+    "weightedAverage < 0.05813736 - BUY",
+    "low > 0.058227 - SELL"
   ],
-  "results": 1000.8191782099993
+  "results": 1000.8618850399993
 }

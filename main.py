@@ -4,12 +4,12 @@ from scripts.market_data import download_market_data
 from scripts.tickers import get_tickers
 
 
-def run_poloniex_trader():
+def run_poloniex_trader(currency_pair):
     """
     Analyze Ethereum prices
     """
 
-    trader = Trader('BTC_ETH')
+    trader = Trader(currency_pair)
     brain = Brain(trader.actions, trader.data)
     brain.run_simulation()
     final_value = trader.get_current_value(trader.data[-1]['close'])
@@ -19,7 +19,10 @@ def run_poloniex_trader():
 
 
 if __name__ == "__main__":
+
     tickers = get_tickers()
-    download_market_data(tickers)
-    for _ in range(100):
-        run_poloniex_trader()
+    # download_market_data(tickers)
+
+    for ticker in tickers:
+        for _ in range(100):
+            run_poloniex_trader(ticker)

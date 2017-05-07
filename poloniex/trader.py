@@ -5,8 +5,9 @@ from utils.tools import read_json, write_json
 class Trader:
 
     def __init__(self, currency_pair):
-        self.input_file = join(dirname(realpath(__file__)), f"input/{currency_pair}.json")
-        self.output_file = join(dirname(realpath(__file__)), f"output/{currency_pair}.json")
+        self.ticker = currency_pair
+        self.input_file = join(dirname(realpath(__file__)), f"input/{self.ticker}.json")
+        self.output_file = join(dirname(realpath(__file__)), f"output/{self.ticker}.json")
         self.btc = 1000
         self.current_best = self.get_current_best()
         self.data = read_json(self.input_file)
@@ -55,6 +56,7 @@ class Trader:
         """
 
         print(
+            f"\n{self.ticker} "
             f"\nNeurons: {neurons} "
             f"\nNew best: {final_value} "
             f"\nOld best: {self.current_best} "

@@ -12,6 +12,7 @@ def save_response(ticker, url):
     response = request.urlopen(url)
     response_data = response.read()
     write_json(f"poloniex/input/{ticker}.json", json.loads(response_data))
+    print(f"Downloaded: {ticker}")
 
 
 def download_market_data(tickers):

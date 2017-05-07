@@ -19,8 +19,11 @@ def read_json(file):
     Read JSON file
     """
 
-    with open(file, 'r') as f:
-        data = json.load(f)
+    try:
+        with open(file, 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = {}
     return data
 
 

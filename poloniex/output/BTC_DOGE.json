@@ -1,0 +1,7 @@
+{
+  "neurons": [
+    "close < 8.7e-07 - BUY",
+    "close > 8.7e-07 - SELL"
+  ],
+  "results": 1000.0000842499993
+}

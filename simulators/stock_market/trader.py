@@ -40,7 +40,6 @@ class Trader:
         """
 
         if not len(self.portfolio):
-            print('Nothing to sell...')
             return
 
         self.cash += last_price
@@ -49,9 +48,13 @@ class Trader:
         print('SELLING:', last_price)
         print('CURRENT:', self.get_current_value(last_price))
 
-    def write_results(self):
+    def write_results(self, neurons):
         """
         Write results to JSON file 
         """
 
-        write_json(self.output_file, {'sample': 100})
+        data = {
+            'neurons': neurons,
+            'results': self.get_current_value(self.data[-1]['price'])
+        }
+        write_json(self.output_file, data)

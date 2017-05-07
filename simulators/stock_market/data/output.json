@@ -1,1 +1,7 @@
-{"sample": 100}
+{
+  "neurons": [
+    "price < 29.85 - BUY",
+    "volume > 5500 - SELL"
+  ],
+  "results": 1018.8599999999999
+}

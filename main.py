@@ -5,8 +5,10 @@ from simulators.stock_market.trader import Trader
 if __name__ == "__main__":
     trader = Trader()
 
-    print(trader.current_best)
-
     brain = Brain(trader.actions, trader.data)
     brain.run_simulation()
-    trader.write_results([str(neuron) for neuron in brain.neurons])
+    final_value = trader.get_current_value(trader.data[-1]['price'])
+
+    if final_value > trader.current_best:
+        neurons = [str(neuron) for neuron in brain.neurons]
+        trader.update_results(neurons, final_value)

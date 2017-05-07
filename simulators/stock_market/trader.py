@@ -9,6 +9,7 @@ class Trader:
         self.input_file = join(dirname(realpath(__file__)), 'data/input.json')
         self.output_file = join(dirname(realpath(__file__)), 'data/output.json')
         self.portfolio = []
+        self.current_best = self.get_current_best()
         self.data = read_json(self.input_file)
         self.actions = {
             'BUY': lambda stock: self.buy(stock),
@@ -26,8 +27,7 @@ class Trader:
         print('BUYING:', stock)
         print('CURRENT:', self.get_current_value(stock['price']))
 
-    @property
-    def current_best(self):
+    def get_current_best(self):
         """
         Current best results
         """
@@ -57,13 +57,16 @@ class Trader:
         print('SELLING:', last_price)
         print('CURRENT:', self.get_current_value(last_price))
 
-    def write_results(self, neurons):
+    def update_results(self, neurons, final_value):
         """
         Write results to JSON file 
         """
 
-        data = {
-            'neurons': neurons,
-            'results': self.get_current_value(self.data[-1]['price'])
-        }
+        print(
+            f"\nNew best: {final_value} "
+            f"\nOld best: {self.current_best} "
+        )
+
+        self.current_best = final_value
+        data = {'neurons': neurons, 'results': final_value}
         write_json(self.output_file, data)

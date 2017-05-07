@@ -1,5 +1,5 @@
 from models.brain import Brain
-from simulators.poloniex.trader import Trader
+from poloniex.trader import Trader
 
 
 def run_poloniex_trader():
@@ -7,7 +7,7 @@ def run_poloniex_trader():
     Analyze Ethereum prices
     """
 
-    trader = Trader()
+    trader = Trader('BTC_ETH')
     brain = Brain(trader.actions, trader.data)
     brain.run_simulation()
     final_value = trader.get_current_value(trader.data[-1]['close'])

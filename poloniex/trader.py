@@ -4,25 +4,25 @@ from utils.tools import read_json, write_json
 
 class Trader:
 
-    def __init__(self):
-        self.cash = 1000
-        self.input_file = join(dirname(realpath(__file__)), 'data/input.json')
-        self.output_file = join(dirname(realpath(__file__)), 'data/output.json')
-        self.portfolio = []
+    def __init__(self, currency_pair):
+        self.input_file = join(dirname(realpath(__file__)), f"input/{currency_pair}.json")
+        self.output_file = join(dirname(realpath(__file__)), f"output/{currency_pair}.json")
+        self.btc = 1000
         self.current_best = self.get_current_best()
         self.data = read_json(self.input_file)
+        self.portfolio = []
         self.actions = {
-            'BUY': lambda stock: self.buy(stock),
-            'SELL': lambda stock: self.sell(stock['price'])
+            'BUY': lambda coin: self.buy(coin),
+            'SELL': lambda coin: self.sell(coin['close'])
         }
 
-    def buy(self, stock):
+    def buy(self, coin):
         """
-        Decrease cash and add stock to portfolio
+        Decrease BTC and add coin to portfolio
         """
 
-        self.cash -= stock['price']
-        self.portfolio.append(stock)
+        self.btc -= coin['close']
+        self.portfolio.append(coin)
 
     def get_current_best(self):
         """
@@ -38,15 +38,15 @@ class Trader:
         """
 
         portfolio_value = len(self.portfolio) * last_price
-        return portfolio_value + self.cash
+        return portfolio_value + self.btc
 
     def sell(self, last_price):
         """
-        Increase cash and remove stock from portfolio
+        Increase BTC and remove coin from portfolio
         """
 
         if len(self.portfolio):
-            self.cash += last_price
+            self.btc += last_price
             self.portfolio.pop()
 
     def update_results(self, neurons, final_value):
@@ -55,6 +55,7 @@ class Trader:
         """
 
         print(
+            f"\nNeurons: {neurons} "
             f"\nNew best: {final_value} "
             f"\nOld best: {self.current_best} "
         )

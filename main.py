@@ -1,5 +1,6 @@
 from models.brain import Brain
 from poloniex.trader import Trader
+from scripts.market_data import download_market_data
 from scripts.tickers import get_tickers
 
 
@@ -19,8 +20,9 @@ def run_poloniex_trader():
 
 if __name__ == "__main__":
 
-    for ticker in get_tickers():
-        print(ticker)
+    # tickers = get_tickers()
+    tickers = ["BTC_AMP", "BTC_ARDR"]
+    download_market_data(tickers)
 
     for _ in range(100):
         run_poloniex_trader()

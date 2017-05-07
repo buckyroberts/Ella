@@ -1,0 +1,2922 @@
+[
+  {
+    "date": 1493670600,
+    "high": 3.258e-05,
+    "low": 3.168e-05,
+    "open": 3.168e-05,
+    "close": 3.186e-05,
+    "volume": 6.6946815,
+    "quoteVolume": 208694.01195272,
+    "weightedAverage": 3.207e-05
+  },
+  {
+    "date": 1493672400,
+    "high": 3.186e-05,
+    "low": 3.129e-05,
+    "open": 3.178e-05,
+    "close": 3.151e-05,
+    "volume": 2.28509631,
+    "quoteVolume": 72541.94700164,
+    "weightedAverage": 3.15e-05
+  },
+  {
+    "date": 1493674200,
+    "high": 3.179e-05,
+    "low": 3.135e-05,
+    "open": 3.168e-05,
+    "close": 3.165e-05,
+    "volume": 2.02119022,
+    "quoteVolume": 64257.78576845,
+    "weightedAverage": 3.145e-05
+  },
+  {
+    "date": 1493676000,
+    "high": 3.299e-05,
+    "low": 3.152e-05,
+    "open": 3.152e-05,
+    "close": 3.298e-05,
+    "volume": 6.93423055,
+    "quoteVolume": 212880.59764784,
+    "weightedAverage": 3.257e-05
+  },
+  {
+    "date": 1493677800,
+    "high": 3.299e-05,
+    "low": 3.235e-05,
+    "open": 3.298e-05,
+    "close": 3.243e-05,
+    "volume": 3.74862708,
+    "quoteVolume": 115113.12300462,
+    "weightedAverage": 3.256e-05
+  },
+  {
+    "date": 1493679600,
+    "high": 3.246e-05,
+    "low": 3.061e-05,
+    "open": 3.246e-05,
+    "close": 3.137e-05,
+    "volume": 8.67430374,
+    "quoteVolume": 276132.07692265,
+    "weightedAverage": 3.141e-05
+  },
+  {
+    "date": 1493681400,
+    "high": 3.246e-05,
+    "low": 3.078e-05,
+    "open": 3.15e-05,
+    "close": 3.246e-05,
+    "volume": 4.08171416,
+    "quoteVolume": 127476.61977662,
+    "weightedAverage": 3.201e-05
+  },
+  {
+    "date": 1493683200,
+    "high": 3.299e-05,
+    "low": 3.217e-05,
+    "open": 3.247e-05,
+    "close": 3.299e-05,
+    "volume": 5.18107732,
+    "quoteVolume": 158068.33256803,
+    "weightedAverage": 3.277e-05
+  },
+  {
+    "date": 1493685000,
+    "high": 3.299e-05,
+    "low": 3.276e-05,
+    "open": 3.299e-05,
+    "close": 3.299e-05,
+    "volume": 3.02197615,
+    "quoteVolume": 91646.50665162,
+    "weightedAverage": 3.297e-05
+  },
+  {
+    "date": 1493686800,
+    "high": 3.298e-05,
+    "low": 3.258e-05,
+    "open": 3.278e-05,
+    "close": 3.259e-05,
+    "volume": 0.87982731,
+    "quoteVolume": 26796.72824913,
+    "weightedAverage": 3.283e-05
+  },
+  {
+    "date": 1493688600,
+    "high": 3.299e-05,
+    "low": 3.258e-05,
+    "open": 3.275e-05,
+    "close": 3.294e-05,
+    "volume": 4.28848968,
+    "quoteVolume": 130125.98302743,
+    "weightedAverage": 3.295e-05
+  },
+  {
+    "date": 1493690400,
+    "high": 3.298e-05,
+    "low": 3.284e-05,
+    "open": 3.294e-05,
+    "close": 3.298e-05,
+    "volume": 4.62643679,
+    "quoteVolume": 140330.80603034,
+    "weightedAverage": 3.296e-05
+  },
+  {
+    "date": 1493692200,
+    "high": 3.299e-05,
+    "low": 3.29e-05,
+    "open": 3.298e-05,
+    "close": 3.29e-05,
+    "volume": 10.61618351,
+    "quoteVolume": 321850.11175828,
+    "weightedAverage": 3.298e-05
+  },
+  {
+    "date": 1493694000,
+    "high": 3.298e-05,
+    "low": 3.284e-05,
+    "open": 3.285e-05,
+    "close": 3.298e-05,
+    "volume": 0.61426446,
+    "quoteVolume": 18667.23632344,
+    "weightedAverage": 3.29e-05
+  },
+  {
+    "date": 1493695800,
+    "high": 3.298e-05,
+    "low": 3.25e-05,
+    "open": 3.294e-05,
+    "close": 3.26e-05,
+    "volume": 2.55553436,
+    "quoteVolume": 77959.36181469,
+    "weightedAverage": 3.278e-05
+  },
+  {
+    "date": 1493697600,
+    "high": 3.299e-05,
+    "low": 3.26e-05,
+    "open": 3.26e-05,
+    "close": 3.279e-05,
+    "volume": 7.55324964,
+    "quoteVolume": 229037.36975098,
+    "weightedAverage": 3.297e-05
+  },
+  {
+    "date": 1493699400,
+    "high": 3.283e-05,
+    "low": 3.191e-05,
+    "open": 3.278e-05,
+    "close": 3.205e-05,
+    "volume": 2.57679509,
+    "quoteVolume": 79754.34670454,
+    "weightedAverage": 3.23e-05
+  },
+  {
+    "date": 1493701200,
+    "high": 3.217e-05,
+    "low": 3.105e-05,
+    "open": 3.217e-05,
+    "close": 3.105e-05,
+    "volume": 3.80443111,
+    "quoteVolume": 119950.21551453,
+    "weightedAverage": 3.171e-05
+  },
+  {
+    "date": 1493703000,
+    "high": 3.13e-05,
+    "low": 3.1e-05,
+    "open": 3.105e-05,
+    "close": 3.105e-05,
+    "volume": 5.22628112,
+    "quoteVolume": 168274.21305602,
+    "weightedAverage": 3.105e-05
+  },
+  {
+    "date": 1493704800,
+    "high": 3.105e-05,
+    "low": 3.103e-05,
+    "open": 3.104e-05,
+    "close": 3.105e-05,
+    "volume": 2.30489025,
+    "quoteVolume": 74258.27523797,
+    "weightedAverage": 3.103e-05
+  },
+  {
+    "date": 1493706600,
+    "high": 3.133e-05,
+    "low": 3.105e-05,
+    "open": 3.105e-05,
+    "close": 3.133e-05,
+    "volume": 2.87818444,
+    "quoteVolume": 92114.17366659,
+    "weightedAverage": 3.124e-05
+  },
+  {
+    "date": 1493708400,
+    "high": 3.204e-05,
+    "low": 3.14e-05,
+    "open": 3.14e-05,
+    "close": 3.203e-05,
+    "volume": 2.40491589,
+    "quoteVolume": 75754.03208851,
+    "weightedAverage": 3.174e-05
+  },
+  {
+    "date": 1493710200,
+    "high": 3.21e-05,
+    "low": 3.201e-05,
+    "open": 3.203e-05,
+    "close": 3.202e-05,
+    "volume": 0.71531908,
+    "quoteVolume": 22324.54948039,
+    "weightedAverage": 3.204e-05
+  },
+  {
+    "date": 1493712000,
+    "high": 3.276e-05,
+    "low": 3.202e-05,
+    "open": 3.202e-05,
+    "close": 3.275e-05,
+    "volume": 1.51877535,
+    "quoteVolume": 46744.44698151,
+    "weightedAverage": 3.249e-05
+  },
+  {
+    "date": 1493713800,
+    "high": 3.299e-05,
+    "low": 3.206e-05,
+    "open": 3.275e-05,
+    "close": 3.206e-05,
+    "volume": 4.72691797,
+    "quoteVolume": 143805.23390015,
+    "weightedAverage": 3.287e-05
+  },
+  {
+    "date": 1493715600,
+    "high": 3.275e-05,
+    "low": 3.08e-05,
+    "open": 3.208e-05,
+    "close": 3.103e-05,
+    "volume": 20.78049508,
+    "quoteVolume": 660764.28849234,
+    "weightedAverage": 3.144e-05
+  },
+  {
+    "date": 1493717400,
+    "high": 3.192e-05,
+    "low": 3.081e-05,
+    "open": 3.119e-05,
+    "close": 3.159e-05,
+    "volume": 10.41763559,
+    "quoteVolume": 327770.93180019,
+    "weightedAverage": 3.178e-05
+  },
+  {
+    "date": 1493719200,
+    "high": 3.176e-05,
+    "low": 3.056e-05,
+    "open": 3.159e-05,
+    "close": 3.06e-05,
+    "volume": 5.50592845,
+    "quoteVolume": 178462.97587439,
+    "weightedAverage": 3.085e-05
+  },
+  {
+    "date": 1493721000,
+    "high": 3.089e-05,
+    "low": 3.048e-05,
+    "open": 3.058e-05,
+    "close": 3.078e-05,
+    "volume": 4.37321931,
+    "quoteVolume": 142742.79574398,
+    "weightedAverage": 3.063e-05
+  },
+  {
+    "date": 1493722800,
+    "high": 3.08e-05,
+    "low": 2.924e-05,
+    "open": 3.079e-05,
+    "close": 2.925e-05,
+    "volume": 13.09361768,
+    "quoteVolume": 438937.82927558,
+    "weightedAverage": 2.983e-05
+  },
+  {
+    "date": 1493724600,
+    "high": 2.94e-05,
+    "low": 2.7e-05,
+    "open": 2.924e-05,
+    "close": 2.802e-05,
+    "volume": 43.09772396,
+    "quoteVolume": 1552046.5253027,
+    "weightedAverage": 2.776e-05
+  },
+  {
+    "date": 1493726400,
+    "high": 2.844e-05,
+    "low": 2.789e-05,
+    "open": 2.8e-05,
+    "close": 2.799e-05,
+    "volume": 7.20838324,
+    "quoteVolume": 256795.96039633,
+    "weightedAverage": 2.807e-05
+  },
+  {
+    "date": 1493728200,
+    "high": 2.91e-05,
+    "low": 2.799e-05,
+    "open": 2.799e-05,
+    "close": 2.859e-05,
+    "volume": 4.03193765,
+    "quoteVolume": 141371.25037627,
+    "weightedAverage": 2.852e-05
+  },
+  {
+    "date": 1493730000,
+    "high": 2.989e-05,
+    "low": 2.804e-05,
+    "open": 2.859e-05,
+    "close": 2.941e-05,
+    "volume": 6.53955835,
+    "quoteVolume": 226334.29176195,
+    "weightedAverage": 2.889e-05
+  },
+  {
+    "date": 1493731800,
+    "high": 3.023e-05,
+    "low": 2.933e-05,
+    "open": 2.94e-05,
+    "close": 3.015e-05,
+    "volume": 2.5592698,
+    "quoteVolume": 86409.49299495,
+    "weightedAverage": 2.961e-05
+  },
+  {
+    "date": 1493733600,
+    "high": 3.051e-05,
+    "low": 2.971e-05,
+    "open": 3.007e-05,
+    "close": 3.011e-05,
+    "volume": 11.16014196,
+    "quoteVolume": 367735.96391245,
+    "weightedAverage": 3.034e-05
+  },
+  {
+    "date": 1493735400,
+    "high": 3.178e-05,
+    "low": 3.001e-05,
+    "open": 3.002e-05,
+    "close": 3.087e-05,
+    "volume": 25.72039536,
+    "quoteVolume": 825766.55342221,
+    "weightedAverage": 3.114e-05
+  },
+  {
+    "date": 1493737200,
+    "high": 3.088e-05,
+    "low": 2.994e-05,
+    "open": 3.088e-05,
+    "close": 3.049e-05,
+    "volume": 8.81670963,
+    "quoteVolume": 291723.636647,
+    "weightedAverage": 3.022e-05
+  },
+  {
+    "date": 1493739000,
+    "high": 3.101e-05,
+    "low": 3.03e-05,
+    "open": 3.049e-05,
+    "close": 3.101e-05,
+    "volume": 2.59310352,
+    "quoteVolume": 84830.27918326,
+    "weightedAverage": 3.056e-05
+  },
+  {
+    "date": 1493740800,
+    "high": 3.087e-05,
+    "low": 2.976e-05,
+    "open": 3.087e-05,
+    "close": 3.01e-05,
+    "volume": 2.55741326,
+    "quoteVolume": 84653.82493647,
+    "weightedAverage": 3.021e-05
+  },
+  {
+    "date": 1493742600,
+    "high": 3.03e-05,
+    "low": 2.976e-05,
+    "open": 2.977e-05,
+    "close": 3.03e-05,
+    "volume": 1.02990809,
+    "quoteVolume": 34317.77855304,
+    "weightedAverage": 3.001e-05
+  },
+  {
+    "date": 1493744400,
+    "high": 3.042e-05,
+    "low": 2.974e-05,
+    "open": 3.014e-05,
+    "close": 2.976e-05,
+    "volume": 2.63633738,
+    "quoteVolume": 88122.27600705,
+    "weightedAverage": 2.991e-05
+  },
+  {
+    "date": 1493746200,
+    "high": 3.147e-05,
+    "low": 2.958e-05,
+    "open": 2.976e-05,
+    "close": 3.14e-05,
+    "volume": 9.68914119,
+    "quoteVolume": 320687.93077423,
+    "weightedAverage": 3.021e-05
+  },
+  {
+    "date": 1493748000,
+    "high": 3.191e-05,
+    "low": 3.048e-05,
+    "open": 3.131e-05,
+    "close": 3.158e-05,
+    "volume": 5.87876455,
+    "quoteVolume": 186708.21394055,
+    "weightedAverage": 3.148e-05
+  },
+  {
+    "date": 1493749800,
+    "high": 3.241e-05,
+    "low": 3.177e-05,
+    "open": 3.178e-05,
+    "close": 3.222e-05,
+    "volume": 7.78489144,
+    "quoteVolume": 241832.60577151,
+    "weightedAverage": 3.219e-05
+  },
+  {
+    "date": 1493751600,
+    "high": 3.256e-05,
+    "low": 3.14e-05,
+    "open": 3.24e-05,
+    "close": 3.152e-05,
+    "volume": 6.56007587,
+    "quoteVolume": 206418.33560878,
+    "weightedAverage": 3.178e-05
+  },
+  {
+    "date": 1493753400,
+    "high": 3.217e-05,
+    "low": 3.14e-05,
+    "open": 3.14e-05,
+    "close": 3.181e-05,
+    "volume": 1.33168214,
+    "quoteVolume": 41937.87455959,
+    "weightedAverage": 3.175e-05
+  },
+  {
+    "date": 1493755200,
+    "high": 3.19e-05,
+    "low": 3.169e-05,
+    "open": 3.179e-05,
+    "close": 3.17e-05,
+    "volume": 0.88541178,
+    "quoteVolume": 27853.1128272,
+    "weightedAverage": 3.178e-05
+  },
+  {
+    "date": 1493757000,
+    "high": 3.17e-05,
+    "low": 3.135e-05,
+    "open": 3.17e-05,
+    "close": 3.135e-05,
+    "volume": 1.32829385,
+    "quoteVolume": 42174.86080076,
+    "weightedAverage": 3.149e-05
+  },
+  {
+    "date": 1493758800,
+    "high": 3.153e-05,
+    "low": 3.122e-05,
+    "open": 3.134e-05,
+    "close": 3.149e-05,
+    "volume": 0.25938204,
+    "quoteVolume": 8273.60892145,
+    "weightedAverage": 3.135e-05
+  },
+  {
+    "date": 1493760600,
+    "high": 3.157e-05,
+    "low": 3.126e-05,
+    "open": 3.15e-05,
+    "close": 3.151e-05,
+    "volume": 0.17342138,
+    "quoteVolume": 5505.19229328,
+    "weightedAverage": 3.15e-05
+  },
+  {
+    "date": 1493762400,
+    "high": 3.169e-05,
+    "low": 3.151e-05,
+    "open": 3.151e-05,
+    "close": 3.168e-05,
+    "volume": 0.67480383,
+    "quoteVolume": 21376.59470214,
+    "weightedAverage": 3.156e-05
+  },
+  {
+    "date": 1493764200,
+    "high": 3.174e-05,
+    "low": 3.151e-05,
+    "open": 3.168e-05,
+    "close": 3.174e-05,
+    "volume": 1.02367916,
+    "quoteVolume": 32394.62321049,
+    "weightedAverage": 3.16e-05
+  },
+  {
+    "date": 1493766000,
+    "high": 3.174e-05,
+    "low": 3.142e-05,
+    "open": 3.174e-05,
+    "close": 3.169e-05,
+    "volume": 0.74721481,
+    "quoteVolume": 23762.51900741,
+    "weightedAverage": 3.144e-05
+  },
+  {
+    "date": 1493767800,
+    "high": 3.171e-05,
+    "low": 3.142e-05,
+    "open": 3.169e-05,
+    "close": 3.154e-05,
+    "volume": 0.65217319,
+    "quoteVolume": 20744.21865962,
+    "weightedAverage": 3.143e-05
+  },
+  {
+    "date": 1493769600,
+    "high": 3.154e-05,
+    "low": 3.092e-05,
+    "open": 3.145e-05,
+    "close": 3.103e-05,
+    "volume": 1.91638743,
+    "quoteVolume": 61405.49715287,
+    "weightedAverage": 3.12e-05
+  },
+  {
+    "date": 1493771400,
+    "high": 3.104e-05,
+    "low": 3.086e-05,
+    "open": 3.104e-05,
+    "close": 3.103e-05,
+    "volume": 0.5364639,
+    "quoteVolume": 17294.05014329,
+    "weightedAverage": 3.102e-05
+  },
+  {
+    "date": 1493773200,
+    "high": 3.102e-05,
+    "low": 3.059e-05,
+    "open": 3.095e-05,
+    "close": 3.066e-05,
+    "volume": 3.16688375,
+    "quoteVolume": 103159.29379853,
+    "weightedAverage": 3.069e-05
+  },
+  {
+    "date": 1493775000,
+    "high": 3.085e-05,
+    "low": 3.058e-05,
+    "open": 3.07e-05,
+    "close": 3.058e-05,
+    "volume": 0.08824052,
+    "quoteVolume": 2876.8015409,
+    "weightedAverage": 3.067e-05
+  },
+  {
+    "date": 1493776800,
+    "high": 3.084e-05,
+    "low": 3.056e-05,
+    "open": 3.057e-05,
+    "close": 3.084e-05,
+    "volume": 4.25726204,
+    "quoteVolume": 138547.60332183,
+    "weightedAverage": 3.072e-05
+  },
+  {
+    "date": 1493778600,
+    "high": 3.084e-05,
+    "low": 3.057e-05,
+    "open": 3.084e-05,
+    "close": 3.082e-05,
+    "volume": 0.08758829,
+    "quoteVolume": 2841.73113239,
+    "weightedAverage": 3.082e-05
+  },
+  {
+    "date": 1493780400,
+    "high": 3.083e-05,
+    "low": 3.049e-05,
+    "open": 3.082e-05,
+    "close": 3.066e-05,
+    "volume": 1.09639576,
+    "quoteVolume": 35868.04924074,
+    "weightedAverage": 3.056e-05
+  },
+  {
+    "date": 1493782200,
+    "high": 3.065e-05,
+    "low": 3.065e-05,
+    "open": 3.065e-05,
+    "close": 3.065e-05,
+    "volume": 0.00529999,
+    "quoteVolume": 172.92006525,
+    "weightedAverage": 3.065e-05
+  },
+  {
+    "date": 1493784000,
+    "high": 3.083e-05,
+    "low": 3.032e-05,
+    "open": 3.05e-05,
+    "close": 3.064e-05,
+    "volume": 0.56473991,
+    "quoteVolume": 18461.75172816,
+    "weightedAverage": 3.058e-05
+  },
+  {
+    "date": 1493785800,
+    "high": 3.084e-05,
+    "low": 3.061e-05,
+    "open": 3.08e-05,
+    "close": 3.084e-05,
+    "volume": 0.28158945,
+    "quoteVolume": 9133.45277488,
+    "weightedAverage": 3.083e-05
+  },
+  {
+    "date": 1493787600,
+    "high": 3.103e-05,
+    "low": 3.083e-05,
+    "open": 3.083e-05,
+    "close": 3.085e-05,
+    "volume": 0.30332736,
+    "quoteVolume": 9809.10657077,
+    "weightedAverage": 3.092e-05
+  },
+  {
+    "date": 1493789400,
+    "high": 3.1e-05,
+    "low": 3e-05,
+    "open": 3.1e-05,
+    "close": 3.021e-05,
+    "volume": 4.12797185,
+    "quoteVolume": 136293.43225724,
+    "weightedAverage": 3.028e-05
+  },
+  {
+    "date": 1493791200,
+    "high": 3.085e-05,
+    "low": 3.013e-05,
+    "open": 3.021e-05,
+    "close": 3.068e-05,
+    "volume": 0.64662675,
+    "quoteVolume": 21147.68706492,
+    "weightedAverage": 3.057e-05
+  },
+  {
+    "date": 1493793000,
+    "high": 3.085e-05,
+    "low": 3.066e-05,
+    "open": 3.085e-05,
+    "close": 3.081e-05,
+    "volume": 0.31439765,
+    "quoteVolume": 10229.5435875,
+    "weightedAverage": 3.073e-05
+  },
+  {
+    "date": 1493794800,
+    "high": 3.086e-05,
+    "low": 3.048e-05,
+    "open": 3.085e-05,
+    "close": 3.086e-05,
+    "volume": 0.78481911,
+    "quoteVolume": 25564.51355076,
+    "weightedAverage": 3.069e-05
+  },
+  {
+    "date": 1493796600,
+    "high": 3.33e-05,
+    "low": 3.079e-05,
+    "open": 3.079e-05,
+    "close": 3.298e-05,
+    "volume": 16.01198366,
+    "quoteVolume": 497339.07973563,
+    "weightedAverage": 3.219e-05
+  },
+  {
+    "date": 1493798400,
+    "high": 3.405e-05,
+    "low": 3.298e-05,
+    "open": 3.299e-05,
+    "close": 3.338e-05,
+    "volume": 8.12393014,
+    "quoteVolume": 242066.93875517,
+    "weightedAverage": 3.356e-05
+  },
+  {
+    "date": 1493800200,
+    "high": 3.384e-05,
+    "low": 3.304e-05,
+    "open": 3.373e-05,
+    "close": 3.34e-05,
+    "volume": 9.65260485,
+    "quoteVolume": 289152.79392833,
+    "weightedAverage": 3.338e-05
+  },
+  {
+    "date": 1493802000,
+    "high": 3.395e-05,
+    "low": 3.323e-05,
+    "open": 3.332e-05,
+    "close": 3.374e-05,
+    "volume": 3.67267439,
+    "quoteVolume": 109244.04215957,
+    "weightedAverage": 3.361e-05
+  },
+  {
+    "date": 1493803800,
+    "high": 3.395e-05,
+    "low": 3.317e-05,
+    "open": 3.355e-05,
+    "close": 3.345e-05,
+    "volume": 4.14093648,
+    "quoteVolume": 123625.82717831,
+    "weightedAverage": 3.349e-05
+  },
+  {
+    "date": 1493805600,
+    "high": 3.43e-05,
+    "low": 3.334e-05,
+    "open": 3.341e-05,
+    "close": 3.43e-05,
+    "volume": 4.11671221,
+    "quoteVolume": 121604.55970888,
+    "weightedAverage": 3.385e-05
+  },
+  {
+    "date": 1493807400,
+    "high": 3.465e-05,
+    "low": 3.425e-05,
+    "open": 3.425e-05,
+    "close": 3.436e-05,
+    "volume": 3.67112222,
+    "quoteVolume": 106640.07043274,
+    "weightedAverage": 3.442e-05
+  },
+  {
+    "date": 1493809200,
+    "high": 3.5e-05,
+    "low": 3.406e-05,
+    "open": 3.439e-05,
+    "close": 3.477e-05,
+    "volume": 8.72320223,
+    "quoteVolume": 251182.22447455,
+    "weightedAverage": 3.472e-05
+  },
+  {
+    "date": 1493811000,
+    "high": 3.502e-05,
+    "low": 3.436e-05,
+    "open": 3.478e-05,
+    "close": 3.456e-05,
+    "volume": 8.86956766,
+    "quoteVolume": 254827.68806858,
+    "weightedAverage": 3.48e-05
+  },
+  {
+    "date": 1493812800,
+    "high": 3.454e-05,
+    "low": 3.401e-05,
+    "open": 3.454e-05,
+    "close": 3.436e-05,
+    "volume": 5.0927643,
+    "quoteVolume": 148676.10855539,
+    "weightedAverage": 3.425e-05
+  },
+  {
+    "date": 1493814600,
+    "high": 3.45e-05,
+    "low": 3.396e-05,
+    "open": 3.415e-05,
+    "close": 3.408e-05,
+    "volume": 8.80843734,
+    "quoteVolume": 257666.06316895,
+    "weightedAverage": 3.418e-05
+  },
+  {
+    "date": 1493816400,
+    "high": 3.49e-05,
+    "low": 3.372e-05,
+    "open": 3.397e-05,
+    "close": 3.436e-05,
+    "volume": 8.79971089,
+    "quoteVolume": 256656.01870725,
+    "weightedAverage": 3.428e-05
+  },
+  {
+    "date": 1493818200,
+    "high": 3.448e-05,
+    "low": 3.334e-05,
+    "open": 3.436e-05,
+    "close": 3.419e-05,
+    "volume": 6.72666699,
+    "quoteVolume": 197388.430936,
+    "weightedAverage": 3.407e-05
+  },
+  {
+    "date": 1493820000,
+    "high": 3.442e-05,
+    "low": 3.398e-05,
+    "open": 3.419e-05,
+    "close": 3.431e-05,
+    "volume": 6.72163995,
+    "quoteVolume": 196708.48046342,
+    "weightedAverage": 3.417e-05
+  },
+  {
+    "date": 1493821800,
+    "high": 3.574e-05,
+    "low": 3.425e-05,
+    "open": 3.431e-05,
+    "close": 3.514e-05,
+    "volume": 13.93381341,
+    "quoteVolume": 398041.28737095,
+    "weightedAverage": 3.5e-05
+  },
+  {
+    "date": 1493823600,
+    "high": 3.556e-05,
+    "low": 3.332e-05,
+    "open": 3.502e-05,
+    "close": 3.332e-05,
+    "volume": 26.74270379,
+    "quoteVolume": 789275.41748102,
+    "weightedAverage": 3.388e-05
+  },
+  {
+    "date": 1493825400,
+    "high": 3.338e-05,
+    "low": 3.327e-05,
+    "open": 3.332e-05,
+    "close": 3.327e-05,
+    "volume": 2.65008047,
+    "quoteVolume": 79420.49352703,
+    "weightedAverage": 3.336e-05
+  },
+  {
+    "date": 1493827200,
+    "high": 3.402e-05,
+    "low": 3.24e-05,
+    "open": 3.331e-05,
+    "close": 3.274e-05,
+    "volume": 13.0241138,
+    "quoteVolume": 392589.45010813,
+    "weightedAverage": 3.317e-05
+  },
+  {
+    "date": 1493829000,
+    "high": 3.325e-05,
+    "low": 3.2e-05,
+    "open": 3.26e-05,
+    "close": 3.246e-05,
+    "volume": 20.4433102,
+    "quoteVolume": 632161.20478247,
+    "weightedAverage": 3.233e-05
+  },
+  {
+    "date": 1493830800,
+    "high": 3.293e-05,
+    "low": 3.202e-05,
+    "open": 3.218e-05,
+    "close": 3.234e-05,
+    "volume": 6.37189973,
+    "quoteVolume": 196927.56242124,
+    "weightedAverage": 3.235e-05
+  },
+  {
+    "date": 1493832600,
+    "high": 3.238e-05,
+    "low": 3.198e-05,
+    "open": 3.214e-05,
+    "close": 3.238e-05,
+    "volume": 12.72484589,
+    "quoteVolume": 396991.84355053,
+    "weightedAverage": 3.205e-05
+  },
+  {
+    "date": 1493834400,
+    "high": 3.238e-05,
+    "low": 3.169e-05,
+    "open": 3.217e-05,
+    "close": 3.212e-05,
+    "volume": 3.32242069,
+    "quoteVolume": 104113.86060733,
+    "weightedAverage": 3.191e-05
+  },
+  {
+    "date": 1493836200,
+    "high": 3.217e-05,
+    "low": 3.15e-05,
+    "open": 3.198e-05,
+    "close": 3.15e-05,
+    "volume": 1.13595372,
+    "quoteVolume": 35805.58149269,
+    "weightedAverage": 3.172e-05
+  },
+  {
+    "date": 1493838000,
+    "high": 3.213e-05,
+    "low": 3.146e-05,
+    "open": 3.155e-05,
+    "close": 3.213e-05,
+    "volume": 1.39510568,
+    "quoteVolume": 44074.60745048,
+    "weightedAverage": 3.165e-05
+  },
+  {
+    "date": 1493839800,
+    "high": 3.22e-05,
+    "low": 3.18e-05,
+    "open": 3.18e-05,
+    "close": 3.203e-05,
+    "volume": 0.61714111,
+    "quoteVolume": 19255.5989408,
+    "weightedAverage": 3.204e-05
+  },
+  {
+    "date": 1493841600,
+    "high": 3.217e-05,
+    "low": 3.103e-05,
+    "open": 3.214e-05,
+    "close": 3.155e-05,
+    "volume": 4.97814091,
+    "quoteVolume": 158819.91211375,
+    "weightedAverage": 3.134e-05
+  },
+  {
+    "date": 1493843400,
+    "high": 3.218e-05,
+    "low": 3.102e-05,
+    "open": 3.154e-05,
+    "close": 3.218e-05,
+    "volume": 3.00778831,
+    "quoteVolume": 94754.10623504,
+    "weightedAverage": 3.174e-05
+  },
+  {
+    "date": 1493845200,
+    "high": 3.226e-05,
+    "low": 3.153e-05,
+    "open": 3.199e-05,
+    "close": 3.159e-05,
+    "volume": 4.73094314,
+    "quoteVolume": 148459.065625,
+    "weightedAverage": 3.186e-05
+  },
+  {
+    "date": 1493847000,
+    "high": 3.159e-05,
+    "low": 3.127e-05,
+    "open": 3.157e-05,
+    "close": 3.127e-05,
+    "volume": 0.62766537,
+    "quoteVolume": 19951.07682774,
+    "weightedAverage": 3.146e-05
+  },
+  {
+    "date": 1493848800,
+    "high": 3.355e-05,
+    "low": 3.108e-05,
+    "open": 3.126e-05,
+    "close": 3.334e-05,
+    "volume": 14.12423048,
+    "quoteVolume": 436741.93082286,
+    "weightedAverage": 3.233e-05
+  },
+  {
+    "date": 1493850600,
+    "high": 3.399e-05,
+    "low": 3.262e-05,
+    "open": 3.334e-05,
+    "close": 3.295e-05,
+    "volume": 5.71442123,
+    "quoteVolume": 170232.11107276,
+    "weightedAverage": 3.356e-05
+  },
+  {
+    "date": 1493852400,
+    "high": 3.275e-05,
+    "low": 3.241e-05,
+    "open": 3.275e-05,
+    "close": 3.251e-05,
+    "volume": 1.05604173,
+    "quoteVolume": 32517.04207188,
+    "weightedAverage": 3.247e-05
+  },
+  {
+    "date": 1493854200,
+    "high": 3.342e-05,
+    "low": 3.26e-05,
+    "open": 3.26e-05,
+    "close": 3.342e-05,
+    "volume": 1.19226985,
+    "quoteVolume": 36007.72855447,
+    "weightedAverage": 3.311e-05
+  },
+  {
+    "date": 1493856000,
+    "high": 3.374e-05,
+    "low": 3.321e-05,
+    "open": 3.321e-05,
+    "close": 3.334e-05,
+    "volume": 1.41482213,
+    "quoteVolume": 42168.53524426,
+    "weightedAverage": 3.355e-05
+  },
+  {
+    "date": 1493857800,
+    "high": 3.334e-05,
+    "low": 3.29e-05,
+    "open": 3.322e-05,
+    "close": 3.334e-05,
+    "volume": 1.12573211,
+    "quoteVolume": 33967.1186627,
+    "weightedAverage": 3.314e-05
+  },
+  {
+    "date": 1493859600,
+    "high": 3.39e-05,
+    "low": 3.295e-05,
+    "open": 3.317e-05,
+    "close": 3.388e-05,
+    "volume": 3.65171143,
+    "quoteVolume": 108427.69974958,
+    "weightedAverage": 3.367e-05
+  },
+  {
+    "date": 1493861400,
+    "high": 3.4e-05,
+    "low": 3.354e-05,
+    "open": 3.356e-05,
+    "close": 3.397e-05,
+    "volume": 4.16258284,
+    "quoteVolume": 122754.50691867,
+    "weightedAverage": 3.39e-05
+  },
+  {
+    "date": 1493863200,
+    "high": 3.432e-05,
+    "low": 3.374e-05,
+    "open": 3.396e-05,
+    "close": 3.432e-05,
+    "volume": 5.33535932,
+    "quoteVolume": 156656.33067426,
+    "weightedAverage": 3.405e-05
+  },
+  {
+    "date": 1493865000,
+    "high": 3.469e-05,
+    "low": 3.361e-05,
+    "open": 3.411e-05,
+    "close": 3.372e-05,
+    "volume": 5.17091608,
+    "quoteVolume": 152015.53358139,
+    "weightedAverage": 3.401e-05
+  },
+  {
+    "date": 1493866800,
+    "high": 3.463e-05,
+    "low": 3.372e-05,
+    "open": 3.372e-05,
+    "close": 3.436e-05,
+    "volume": 1.55410857,
+    "quoteVolume": 45245.86075499,
+    "weightedAverage": 3.434e-05
+  },
+  {
+    "date": 1493868600,
+    "high": 3.485e-05,
+    "low": 3.436e-05,
+    "open": 3.436e-05,
+    "close": 3.485e-05,
+    "volume": 6.53732601,
+    "quoteVolume": 187966.10274787,
+    "weightedAverage": 3.477e-05
+  },
+  {
+    "date": 1493870400,
+    "high": 3.485e-05,
+    "low": 3.373e-05,
+    "open": 3.485e-05,
+    "close": 3.483e-05,
+    "volume": 6.17370173,
+    "quoteVolume": 179409.59144553,
+    "weightedAverage": 3.441e-05
+  },
+  {
+    "date": 1493872200,
+    "high": 3.485e-05,
+    "low": 3.478e-05,
+    "open": 3.478e-05,
+    "close": 3.485e-05,
+    "volume": 1.43232891,
+    "quoteVolume": 41129.85161056,
+    "weightedAverage": 3.482e-05
+  },
+  {
+    "date": 1493874000,
+    "high": 3.499e-05,
+    "low": 3.474e-05,
+    "open": 3.48e-05,
+    "close": 3.474e-05,
+    "volume": 2.76344764,
+    "quoteVolume": 79303.44906695,
+    "weightedAverage": 3.484e-05
+  },
+  {
+    "date": 1493875800,
+    "high": 3.488e-05,
+    "low": 3.424e-05,
+    "open": 3.464e-05,
+    "close": 3.461e-05,
+    "volume": 1.11153553,
+    "quoteVolume": 32192.22572653,
+    "weightedAverage": 3.452e-05
+  },
+  {
+    "date": 1493877600,
+    "high": 3.459e-05,
+    "low": 3.436e-05,
+    "open": 3.451e-05,
+    "close": 3.436e-05,
+    "volume": 0.32602618,
+    "quoteVolume": 9457.85188248,
+    "weightedAverage": 3.447e-05
+  },
+  {
+    "date": 1493879400,
+    "high": 3.5e-05,
+    "low": 3.436e-05,
+    "open": 3.45e-05,
+    "close": 3.5e-05,
+    "volume": 5.16686419,
+    "quoteVolume": 147945.91907025,
+    "weightedAverage": 3.492e-05
+  },
+  {
+    "date": 1493881200,
+    "high": 3.5e-05,
+    "low": 3.468e-05,
+    "open": 3.483e-05,
+    "close": 3.478e-05,
+    "volume": 1.20228977,
+    "quoteVolume": 34479.76577941,
+    "weightedAverage": 3.486e-05
+  },
+  {
+    "date": 1493883000,
+    "high": 3.498e-05,
+    "low": 3.441e-05,
+    "open": 3.477e-05,
+    "close": 3.441e-05,
+    "volume": 0.62684882,
+    "quoteVolume": 18067.17639126,
+    "weightedAverage": 3.469e-05
+  },
+  {
+    "date": 1493884800,
+    "high": 3.456e-05,
+    "low": 3.371e-05,
+    "open": 3.45e-05,
+    "close": 3.374e-05,
+    "volume": 6.22441071,
+    "quoteVolume": 183085.30271808,
+    "weightedAverage": 3.399e-05
+  },
+  {
+    "date": 1493886600,
+    "high": 3.498e-05,
+    "low": 3.354e-05,
+    "open": 3.37e-05,
+    "close": 3.395e-05,
+    "volume": 12.87088209,
+    "quoteVolume": 376186.6583724,
+    "weightedAverage": 3.421e-05
+  },
+  {
+    "date": 1493888400,
+    "high": 3.415e-05,
+    "low": 3.374e-05,
+    "open": 3.393e-05,
+    "close": 3.413e-05,
+    "volume": 2.3709863,
+    "quoteVolume": 70120.49602458,
+    "weightedAverage": 3.381e-05
+  },
+  {
+    "date": 1493890200,
+    "high": 3.4e-05,
+    "low": 3.372e-05,
+    "open": 3.4e-05,
+    "close": 3.372e-05,
+    "volume": 3.00245848,
+    "quoteVolume": 88723.62851606,
+    "weightedAverage": 3.384e-05
+  },
+  {
+    "date": 1493892000,
+    "high": 3.5e-05,
+    "low": 3.372e-05,
+    "open": 3.372e-05,
+    "close": 3.5e-05,
+    "volume": 14.5759666,
+    "quoteVolume": 424238.42037869,
+    "weightedAverage": 3.435e-05
+  },
+  {
+    "date": 1493893800,
+    "high": 3.502e-05,
+    "low": 3.416e-05,
+    "open": 3.436e-05,
+    "close": 3.485e-05,
+    "volume": 9.31325133,
+    "quoteVolume": 266927.99751288,
+    "weightedAverage": 3.489e-05
+  },
+  {
+    "date": 1493895600,
+    "high": 3.5e-05,
+    "low": 3.47e-05,
+    "open": 3.5e-05,
+    "close": 3.47e-05,
+    "volume": 0.85445701,
+    "quoteVolume": 24525.02491848,
+    "weightedAverage": 3.484e-05
+  },
+  {
+    "date": 1493897400,
+    "high": 3.52e-05,
+    "low": 3.46e-05,
+    "open": 3.46e-05,
+    "close": 3.519e-05,
+    "volume": 3.84572676,
+    "quoteVolume": 109752.21725135,
+    "weightedAverage": 3.504e-05
+  },
+  {
+    "date": 1493899200,
+    "high": 3.51e-05,
+    "low": 3.471e-05,
+    "open": 3.51e-05,
+    "close": 3.471e-05,
+    "volume": 6.89327405,
+    "quoteVolume": 198316.68931504,
+    "weightedAverage": 3.475e-05
+  },
+  {
+    "date": 1493901000,
+    "high": 3.48e-05,
+    "low": 3.406e-05,
+    "open": 3.47e-05,
+    "close": 3.449e-05,
+    "volume": 10.12364972,
+    "quoteVolume": 296138.91104774,
+    "weightedAverage": 3.418e-05
+  },
+  {
+    "date": 1493902800,
+    "high": 3.468e-05,
+    "low": 3.395e-05,
+    "open": 3.456e-05,
+    "close": 3.432e-05,
+    "volume": 4.66822303,
+    "quoteVolume": 135969.37925632,
+    "weightedAverage": 3.433e-05
+  },
+  {
+    "date": 1493904600,
+    "high": 3.502e-05,
+    "low": 3.433e-05,
+    "open": 3.433e-05,
+    "close": 3.476e-05,
+    "volume": 6.26874379,
+    "quoteVolume": 180491.87681455,
+    "weightedAverage": 3.473e-05
+  },
+  {
+    "date": 1493906400,
+    "high": 3.476e-05,
+    "low": 3.373e-05,
+    "open": 3.475e-05,
+    "close": 3.447e-05,
+    "volume": 7.49767631,
+    "quoteVolume": 219359.41248546,
+    "weightedAverage": 3.417e-05
+  },
+  {
+    "date": 1493908200,
+    "high": 3.456e-05,
+    "low": 3.418e-05,
+    "open": 3.447e-05,
+    "close": 3.425e-05,
+    "volume": 2.03496164,
+    "quoteVolume": 59101.61046444,
+    "weightedAverage": 3.443e-05
+  },
+  {
+    "date": 1493910000,
+    "high": 3.475e-05,
+    "low": 3.417e-05,
+    "open": 3.455e-05,
+    "close": 3.47e-05,
+    "volume": 1.37480886,
+    "quoteVolume": 39865.62573925,
+    "weightedAverage": 3.448e-05
+  },
+  {
+    "date": 1493911800,
+    "high": 3.475e-05,
+    "low": 3.436e-05,
+    "open": 3.469e-05,
+    "close": 3.456e-05,
+    "volume": 2.02759893,
+    "quoteVolume": 58791.11537982,
+    "weightedAverage": 3.448e-05
+  },
+  {
+    "date": 1493913600,
+    "high": 3.476e-05,
+    "low": 3.436e-05,
+    "open": 3.46e-05,
+    "close": 3.461e-05,
+    "volume": 2.69693169,
+    "quoteVolume": 77898.7417557,
+    "weightedAverage": 3.462e-05
+  },
+  {
+    "date": 1493915400,
+    "high": 3.519e-05,
+    "low": 3.461e-05,
+    "open": 3.461e-05,
+    "close": 3.519e-05,
+    "volume": 4.30044261,
+    "quoteVolume": 123416.01499747,
+    "weightedAverage": 3.484e-05
+  },
+  {
+    "date": 1493917200,
+    "high": 3.538e-05,
+    "low": 3.5e-05,
+    "open": 3.52e-05,
+    "close": 3.519e-05,
+    "volume": 4.17303276,
+    "quoteVolume": 118894.03307585,
+    "weightedAverage": 3.509e-05
+  },
+  {
+    "date": 1493919000,
+    "high": 3.537e-05,
+    "low": 3.489e-05,
+    "open": 3.518e-05,
+    "close": 3.499e-05,
+    "volume": 1.50878211,
+    "quoteVolume": 42923.10876436,
+    "weightedAverage": 3.515e-05
+  },
+  {
+    "date": 1493920800,
+    "high": 3.519e-05,
+    "low": 3.436e-05,
+    "open": 3.499e-05,
+    "close": 3.446e-05,
+    "volume": 3.49755411,
+    "quoteVolume": 100674.7109487,
+    "weightedAverage": 3.474e-05
+  },
+  {
+    "date": 1493922600,
+    "high": 3.446e-05,
+    "low": 3.428e-05,
+    "open": 3.445e-05,
+    "close": 3.436e-05,
+    "volume": 0.64574069,
+    "quoteVolume": 18811.62649019,
+    "weightedAverage": 3.432e-05
+  },
+  {
+    "date": 1493924400,
+    "high": 3.446e-05,
+    "low": 3.375e-05,
+    "open": 3.436e-05,
+    "close": 3.399e-05,
+    "volume": 7.37357059,
+    "quoteVolume": 216412.83153902,
+    "weightedAverage": 3.407e-05
+  },
+  {
+    "date": 1493926200,
+    "high": 3.435e-05,
+    "low": 3.378e-05,
+    "open": 3.4e-05,
+    "close": 3.435e-05,
+    "volume": 3.21654546,
+    "quoteVolume": 94367.65083633,
+    "weightedAverage": 3.408e-05
+  },
+  {
+    "date": 1493928000,
+    "high": 3.457e-05,
+    "low": 3.434e-05,
+    "open": 3.435e-05,
+    "close": 3.434e-05,
+    "volume": 4.20308161,
+    "quoteVolume": 122197.46408758,
+    "weightedAverage": 3.439e-05
+  },
+  {
+    "date": 1493929800,
+    "high": 3.457e-05,
+    "low": 3.434e-05,
+    "open": 3.435e-05,
+    "close": 3.45e-05,
+    "volume": 1.11725228,
+    "quoteVolume": 32462.89978929,
+    "weightedAverage": 3.441e-05
+  },
+  {
+    "date": 1493931600,
+    "high": 3.458e-05,
+    "low": 3.434e-05,
+    "open": 3.457e-05,
+    "close": 3.436e-05,
+    "volume": 2.78780362,
+    "quoteVolume": 80777.89415963,
+    "weightedAverage": 3.451e-05
+  },
+  {
+    "date": 1493933400,
+    "high": 3.46e-05,
+    "low": 3.432e-05,
+    "open": 3.437e-05,
+    "close": 3.432e-05,
+    "volume": 2.34735509,
+    "quoteVolume": 68161.58081032,
+    "weightedAverage": 3.443e-05
+  },
+  {
+    "date": 1493935200,
+    "high": 3.432e-05,
+    "low": 3.342e-05,
+    "open": 3.431e-05,
+    "close": 3.342e-05,
+    "volume": 5.24690401,
+    "quoteVolume": 155050.34231566,
+    "weightedAverage": 3.384e-05
+  },
+  {
+    "date": 1493937000,
+    "high": 3.379e-05,
+    "low": 3.336e-05,
+    "open": 3.349e-05,
+    "close": 3.336e-05,
+    "volume": 1.8540005,
+    "quoteVolume": 55445.1079587,
+    "weightedAverage": 3.343e-05
+  },
+  {
+    "date": 1493938800,
+    "high": 3.344e-05,
+    "low": 3.324e-05,
+    "open": 3.334e-05,
+    "close": 3.324e-05,
+    "volume": 0.4560075,
+    "quoteVolume": 13678.74713455,
+    "weightedAverage": 3.333e-05
+  },
+  {
+    "date": 1493940600,
+    "high": 3.365e-05,
+    "low": 3.3e-05,
+    "open": 3.323e-05,
+    "close": 3.304e-05,
+    "volume": 16.85546636,
+    "quoteVolume": 507973.65874063,
+    "weightedAverage": 3.318e-05
+  },
+  {
+    "date": 1493942400,
+    "high": 3.421e-05,
+    "low": 3.304e-05,
+    "open": 3.304e-05,
+    "close": 3.318e-05,
+    "volume": 9.76654097,
+    "quoteVolume": 288842.75634824,
+    "weightedAverage": 3.381e-05
+  },
+  {
+    "date": 1493944200,
+    "high": 3.349e-05,
+    "low": 3.317e-05,
+    "open": 3.318e-05,
+    "close": 3.333e-05,
+    "volume": 2.5454486,
+    "quoteVolume": 76193.92049654,
+    "weightedAverage": 3.34e-05
+  },
+  {
+    "date": 1493946000,
+    "high": 3.348e-05,
+    "low": 3.333e-05,
+    "open": 3.333e-05,
+    "close": 3.337e-05,
+    "volume": 0.34759459,
+    "quoteVolume": 10399.47999298,
+    "weightedAverage": 3.342e-05
+  },
+  {
+    "date": 1493947800,
+    "high": 3.5e-05,
+    "low": 3.338e-05,
+    "open": 3.339e-05,
+    "close": 3.468e-05,
+    "volume": 14.53411801,
+    "quoteVolume": 424183.48833953,
+    "weightedAverage": 3.426e-05
+  },
+  {
+    "date": 1493949600,
+    "high": 3.538e-05,
+    "low": 3.468e-05,
+    "open": 3.472e-05,
+    "close": 3.506e-05,
+    "volume": 7.68854608,
+    "quoteVolume": 219222.62629599,
+    "weightedAverage": 3.507e-05
+  },
+  {
+    "date": 1493951400,
+    "high": 3.506e-05,
+    "low": 3.415e-05,
+    "open": 3.506e-05,
+    "close": 3.415e-05,
+    "volume": 4.43496501,
+    "quoteVolume": 128143.88341167,
+    "weightedAverage": 3.46e-05
+  },
+  {
+    "date": 1493953200,
+    "high": 3.481e-05,
+    "low": 3.415e-05,
+    "open": 3.432e-05,
+    "close": 3.481e-05,
+    "volume": 1.07204526,
+    "quoteVolume": 31118.02474061,
+    "weightedAverage": 3.445e-05
+  },
+  {
+    "date": 1493955000,
+    "high": 3.6e-05,
+    "low": 3.422e-05,
+    "open": 3.477e-05,
+    "close": 3.6e-05,
+    "volume": 21.43086256,
+    "quoteVolume": 609390.05509833,
+    "weightedAverage": 3.516e-05
+  },
+  {
+    "date": 1493956800,
+    "high": 3.776e-05,
+    "low": 3.6e-05,
+    "open": 3.6e-05,
+    "close": 3.755e-05,
+    "volume": 23.2141984,
+    "quoteVolume": 626355.15441814,
+    "weightedAverage": 3.706e-05
+  },
+  {
+    "date": 1493958600,
+    "high": 3.85e-05,
+    "low": 3.737e-05,
+    "open": 3.748e-05,
+    "close": 3.831e-05,
+    "volume": 10.29029505,
+    "quoteVolume": 270955.31516214,
+    "weightedAverage": 3.797e-05
+  },
+  {
+    "date": 1493960400,
+    "high": 3.888e-05,
+    "low": 3.765e-05,
+    "open": 3.83e-05,
+    "close": 3.85e-05,
+    "volume": 19.51427587,
+    "quoteVolume": 506390.53548325,
+    "weightedAverage": 3.853e-05
+  },
+  {
+    "date": 1493962200,
+    "high": 3.888e-05,
+    "low": 3.838e-05,
+    "open": 3.85e-05,
+    "close": 3.888e-05,
+    "volume": 13.36815506,
+    "quoteVolume": 344959.86382353,
+    "weightedAverage": 3.875e-05
+  },
+  {
+    "date": 1493964000,
+    "high": 3.94e-05,
+    "low": 3.813e-05,
+    "open": 3.888e-05,
+    "close": 3.94e-05,
+    "volume": 16.0222022,
+    "quoteVolume": 411426.00616591,
+    "weightedAverage": 3.894e-05
+  },
+  {
+    "date": 1493965800,
+    "high": 3.964e-05,
+    "low": 3.88e-05,
+    "open": 3.925e-05,
+    "close": 3.915e-05,
+    "volume": 7.56301591,
+    "quoteVolume": 192106.04223161,
+    "weightedAverage": 3.936e-05
+  },
+  {
+    "date": 1493967600,
+    "high": 3.977e-05,
+    "low": 3.9e-05,
+    "open": 3.925e-05,
+    "close": 3.977e-05,
+    "volume": 8.32238713,
+    "quoteVolume": 210608.16729551,
+    "weightedAverage": 3.951e-05
+  },
+  {
+    "date": 1493969400,
+    "high": 3.977e-05,
+    "low": 3.9e-05,
+    "open": 3.977e-05,
+    "close": 3.927e-05,
+    "volume": 7.80696342,
+    "quoteVolume": 198131.77499499,
+    "weightedAverage": 3.94e-05
+  },
+  {
+    "date": 1493971200,
+    "high": 3.948e-05,
+    "low": 3.902e-05,
+    "open": 3.94e-05,
+    "close": 3.935e-05,
+    "volume": 10.98973135,
+    "quoteVolume": 278730.47888267,
+    "weightedAverage": 3.942e-05
+  },
+  {
+    "date": 1493973000,
+    "high": 3.977e-05,
+    "low": 3.9e-05,
+    "open": 3.935e-05,
+    "close": 3.954e-05,
+    "volume": 11.30915535,
+    "quoteVolume": 287134.88000759,
+    "weightedAverage": 3.938e-05
+  },
+  {
+    "date": 1493974800,
+    "high": 3.977e-05,
+    "low": 3.93e-05,
+    "open": 3.951e-05,
+    "close": 3.977e-05,
+    "volume": 5.32636944,
+    "quoteVolume": 134217.29276755,
+    "weightedAverage": 3.968e-05
+  },
+  {
+    "date": 1493976600,
+    "high": 3.977e-05,
+    "low": 3.947e-05,
+    "open": 3.967e-05,
+    "close": 3.977e-05,
+    "volume": 18.85936993,
+    "quoteVolume": 474327.09387385,
+    "weightedAverage": 3.976e-05
+  },
+  {
+    "date": 1493978400,
+    "high": 4e-05,
+    "low": 3.967e-05,
+    "open": 3.967e-05,
+    "close": 3.98e-05,
+    "volume": 16.00153175,
+    "quoteVolume": 402054.36107357,
+    "weightedAverage": 3.979e-05
+  },
+  {
+    "date": 1493980200,
+    "high": 4.476e-05,
+    "low": 3.999e-05,
+    "open": 4e-05,
+    "close": 4.39e-05,
+    "volume": 71.39206829,
+    "quoteVolume": 1708684.5602288,
+    "weightedAverage": 4.178e-05
+  },
+  {
+    "date": 1493982000,
+    "high": 4.396e-05,
+    "low": 4.19e-05,
+    "open": 4.396e-05,
+    "close": 4.213e-05,
+    "volume": 16.77513807,
+    "quoteVolume": 394259.28265568,
+    "weightedAverage": 4.254e-05
+  },
+  {
+    "date": 1493983800,
+    "high": 4.23e-05,
+    "low": 4.025e-05,
+    "open": 4.212e-05,
+    "close": 4.026e-05,
+    "volume": 35.77471701,
+    "quoteVolume": 870163.37521595,
+    "weightedAverage": 4.111e-05
+  },
+  {
+    "date": 1493985600,
+    "high": 4.164e-05,
+    "low": 4.025e-05,
+    "open": 4.026e-05,
+    "close": 4.148e-05,
+    "volume": 7.11655418,
+    "quoteVolume": 173593.29722589,
+    "weightedAverage": 4.099e-05
+  },
+  {
+    "date": 1493987400,
+    "high": 4.2e-05,
+    "low": 4.043e-05,
+    "open": 4.143e-05,
+    "close": 4.046e-05,
+    "volume": 5.77894352,
+    "quoteVolume": 140734.65856312,
+    "weightedAverage": 4.106e-05
+  },
+  {
+    "date": 1493989200,
+    "high": 4.085e-05,
+    "low": 4.013e-05,
+    "open": 4.046e-05,
+    "close": 4.046e-05,
+    "volume": 10.54878908,
+    "quoteVolume": 261552.02110627,
+    "weightedAverage": 4.033e-05
+  },
+  {
+    "date": 1493991000,
+    "high": 4.056e-05,
+    "low": 4e-05,
+    "open": 4.056e-05,
+    "close": 4.001e-05,
+    "volume": 4.65820967,
+    "quoteVolume": 116084.27367154,
+    "weightedAverage": 4.012e-05
+  },
+  {
+    "date": 1493992800,
+    "high": 4.122e-05,
+    "low": 4e-05,
+    "open": 4.001e-05,
+    "close": 4.097e-05,
+    "volume": 3.58141301,
+    "quoteVolume": 88210.76335741,
+    "weightedAverage": 4.06e-05
+  },
+  {
+    "date": 1493994600,
+    "high": 4.128e-05,
+    "low": 4.087e-05,
+    "open": 4.096e-05,
+    "close": 4.128e-05,
+    "volume": 1.59657624,
+    "quoteVolume": 38735.47223165,
+    "weightedAverage": 4.121e-05
+  },
+  {
+    "date": 1493996400,
+    "high": 4.133e-05,
+    "low": 4.104e-05,
+    "open": 4.133e-05,
+    "close": 4.133e-05,
+    "volume": 4.33402874,
+    "quoteVolume": 105273.67010561,
+    "weightedAverage": 4.116e-05
+  },
+  {
+    "date": 1493998200,
+    "high": 4.232e-05,
+    "low": 4.12e-05,
+    "open": 4.12e-05,
+    "close": 4.211e-05,
+    "volume": 15.02732819,
+    "quoteVolume": 360828.26441783,
+    "weightedAverage": 4.164e-05
+  },
+  {
+    "date": 1494000000,
+    "high": 4.233e-05,
+    "low": 4.09e-05,
+    "open": 4.232e-05,
+    "close": 4.092e-05,
+    "volume": 9.41868879,
+    "quoteVolume": 227710.6717737,
+    "weightedAverage": 4.136e-05
+  },
+  {
+    "date": 1494001800,
+    "high": 4.092e-05,
+    "low": 3.999e-05,
+    "open": 4.09e-05,
+    "close": 3.999e-05,
+    "volume": 17.12281475,
+    "quoteVolume": 425885.1795535,
+    "weightedAverage": 4.02e-05
+  },
+  {
+    "date": 1494003600,
+    "high": 4.024e-05,
+    "low": 3.958e-05,
+    "open": 4.024e-05,
+    "close": 4.005e-05,
+    "volume": 5.37478476,
+    "quoteVolume": 134640.57395845,
+    "weightedAverage": 3.991e-05
+  },
+  {
+    "date": 1494005400,
+    "high": 4.005e-05,
+    "low": 3.918e-05,
+    "open": 3.989e-05,
+    "close": 3.941e-05,
+    "volume": 3.40635829,
+    "quoteVolume": 85931.25187067,
+    "weightedAverage": 3.964e-05
+  },
+  {
+    "date": 1494007200,
+    "high": 3.947e-05,
+    "low": 3.902e-05,
+    "open": 3.941e-05,
+    "close": 3.947e-05,
+    "volume": 1.95542373,
+    "quoteVolume": 49829.09246028,
+    "weightedAverage": 3.924e-05
+  },
+  {
+    "date": 1494009000,
+    "high": 3.984e-05,
+    "low": 3.9e-05,
+    "open": 3.943e-05,
+    "close": 3.9e-05,
+    "volume": 4.90945213,
+    "quoteVolume": 125255.89398669,
+    "weightedAverage": 3.919e-05
+  },
+  {
+    "date": 1494010800,
+    "high": 3.947e-05,
+    "low": 3.899e-05,
+    "open": 3.9e-05,
+    "close": 3.947e-05,
+    "volume": 1.09114085,
+    "quoteVolume": 27964.59065909,
+    "weightedAverage": 3.901e-05
+  },
+  {
+    "date": 1494012600,
+    "high": 3.947e-05,
+    "low": 3.908e-05,
+    "open": 3.936e-05,
+    "close": 3.908e-05,
+    "volume": 0.83761064,
+    "quoteVolume": 21302.14140591,
+    "weightedAverage": 3.932e-05
+  },
+  {
+    "date": 1494014400,
+    "high": 3.942e-05,
+    "low": 3.772e-05,
+    "open": 3.909e-05,
+    "close": 3.777e-05,
+    "volume": 26.69410821,
+    "quoteVolume": 696570.75349149,
+    "weightedAverage": 3.832e-05
+  },
+  {
+    "date": 1494016200,
+    "high": 3.775e-05,
+    "low": 3.718e-05,
+    "open": 3.775e-05,
+    "close": 3.736e-05,
+    "volume": 7.32085163,
+    "quoteVolume": 195374.03955749,
+    "weightedAverage": 3.747e-05
+  },
+  {
+    "date": 1494018000,
+    "high": 3.755e-05,
+    "low": 3.72e-05,
+    "open": 3.736e-05,
+    "close": 3.755e-05,
+    "volume": 9.78327202,
+    "quoteVolume": 261831.2243367,
+    "weightedAverage": 3.736e-05
+  },
+  {
+    "date": 1494019800,
+    "high": 3.8e-05,
+    "low": 3.718e-05,
+    "open": 3.756e-05,
+    "close": 3.746e-05,
+    "volume": 11.61647812,
+    "quoteVolume": 306798.10299741,
+    "weightedAverage": 3.786e-05
+  },
+  {
+    "date": 1494021600,
+    "high": 3.8e-05,
+    "low": 3.747e-05,
+    "open": 3.747e-05,
+    "close": 3.795e-05,
+    "volume": 4.66314909,
+    "quoteVolume": 122842.39489343,
+    "weightedAverage": 3.796e-05
+  },
+  {
+    "date": 1494023400,
+    "high": 3.8e-05,
+    "low": 3.781e-05,
+    "open": 3.795e-05,
+    "close": 3.781e-05,
+    "volume": 1.74113059,
+    "quoteVolume": 45949.92870973,
+    "weightedAverage": 3.789e-05
+  },
+  {
+    "date": 1494025200,
+    "high": 3.8e-05,
+    "low": 3.718e-05,
+    "open": 3.799e-05,
+    "close": 3.75e-05,
+    "volume": 7.86882005,
+    "quoteVolume": 208925.2099497,
+    "weightedAverage": 3.766e-05
+  },
+  {
+    "date": 1494027000,
+    "high": 3.795e-05,
+    "low": 3.749e-05,
+    "open": 3.75e-05,
+    "close": 3.795e-05,
+    "volume": 1.40519836,
+    "quoteVolume": 37169.64711582,
+    "weightedAverage": 3.78e-05
+  },
+  {
+    "date": 1494028800,
+    "high": 3.799e-05,
+    "low": 3.711e-05,
+    "open": 3.795e-05,
+    "close": 3.718e-05,
+    "volume": 3.13984252,
+    "quoteVolume": 83761.7592274,
+    "weightedAverage": 3.748e-05
+  },
+  {
+    "date": 1494030600,
+    "high": 3.766e-05,
+    "low": 3.721e-05,
+    "open": 3.73e-05,
+    "close": 3.737e-05,
+    "volume": 1.51977209,
+    "quoteVolume": 40681.99783465,
+    "weightedAverage": 3.735e-05
+  },
+  {
+    "date": 1494032400,
+    "high": 3.755e-05,
+    "low": 3.62e-05,
+    "open": 3.755e-05,
+    "close": 3.698e-05,
+    "volume": 8.74552084,
+    "quoteVolume": 238013.31801788,
+    "weightedAverage": 3.674e-05
+  },
+  {
+    "date": 1494034200,
+    "high": 3.8e-05,
+    "low": 3.7e-05,
+    "open": 3.7e-05,
+    "close": 3.8e-05,
+    "volume": 8.98012698,
+    "quoteVolume": 237554.8934676,
+    "weightedAverage": 3.78e-05
+  },
+  {
+    "date": 1494036000,
+    "high": 3.8e-05,
+    "low": 3.761e-05,
+    "open": 3.8e-05,
+    "close": 3.774e-05,
+    "volume": 1.93209117,
+    "quoteVolume": 50965.16077247,
+    "weightedAverage": 3.791e-05
+  },
+  {
+    "date": 1494037800,
+    "high": 3.8e-05,
+    "low": 3.712e-05,
+    "open": 3.79e-05,
+    "close": 3.737e-05,
+    "volume": 15.19541513,
+    "quoteVolume": 401859.45101115,
+    "weightedAverage": 3.781e-05
+  },
+  {
+    "date": 1494039600,
+    "high": 3.795e-05,
+    "low": 3.737e-05,
+    "open": 3.737e-05,
+    "close": 3.795e-05,
+    "volume": 3.04822307,
+    "quoteVolume": 80518.58154632,
+    "weightedAverage": 3.785e-05
+  },
+  {
+    "date": 1494041400,
+    "high": 3.876e-05,
+    "low": 3.795e-05,
+    "open": 3.795e-05,
+    "close": 3.855e-05,
+    "volume": 26.20272401,
+    "quoteVolume": 688117.4830733,
+    "weightedAverage": 3.807e-05
+  },
+  {
+    "date": 1494043200,
+    "high": 3.951e-05,
+    "low": 3.85e-05,
+    "open": 3.857e-05,
+    "close": 3.951e-05,
+    "volume": 6.7754508,
+    "quoteVolume": 173499.19736242,
+    "weightedAverage": 3.905e-05
+  },
+  {
+    "date": 1494045000,
+    "high": 4.205e-05,
+    "low": 3.929e-05,
+    "open": 3.93e-05,
+    "close": 4.067e-05,
+    "volume": 21.46034365,
+    "quoteVolume": 525397.47747793,
+    "weightedAverage": 4.084e-05
+  },
+  {
+    "date": 1494046800,
+    "high": 4.079e-05,
+    "low": 4.046e-05,
+    "open": 4.079e-05,
+    "close": 4.066e-05,
+    "volume": 1.42462577,
+    "quoteVolume": 35111.09527552,
+    "weightedAverage": 4.057e-05
+  },
+  {
+    "date": 1494048600,
+    "high": 4.088e-05,
+    "low": 4.044e-05,
+    "open": 4.046e-05,
+    "close": 4.044e-05,
+    "volume": 1.39210913,
+    "quoteVolume": 34193.83797724,
+    "weightedAverage": 4.071e-05
+  },
+  {
+    "date": 1494050400,
+    "high": 4.044e-05,
+    "low": 3.999e-05,
+    "open": 4.044e-05,
+    "close": 4.025e-05,
+    "volume": 1.92108579,
+    "quoteVolume": 47895.85153462,
+    "weightedAverage": 4.01e-05
+  },
+  {
+    "date": 1494052200,
+    "high": 4.025e-05,
+    "low": 3.97e-05,
+    "open": 4.022e-05,
+    "close": 3.97e-05,
+    "volume": 1.02387698,
+    "quoteVolume": 25622.35438561,
+    "weightedAverage": 3.996e-05
+  },
+  {
+    "date": 1494054000,
+    "high": 3.989e-05,
+    "low": 3.929e-05,
+    "open": 3.989e-05,
+    "close": 3.93e-05,
+    "volume": 3.7594763,
+    "quoteVolume": 95030.89508351,
+    "weightedAverage": 3.956e-05
+  },
+  {
+    "date": 1494055800,
+    "high": 3.949e-05,
+    "low": 3.908e-05,
+    "open": 3.93e-05,
+    "close": 3.908e-05,
+    "volume": 1.21211207,
+    "quoteVolume": 30877.83171751,
+    "weightedAverage": 3.925e-05
+  },
+  {
+    "date": 1494057600,
+    "high": 3.908e-05,
+    "low": 3.896e-05,
+    "open": 3.908e-05,
+    "close": 3.896e-05,
+    "volume": 0.20220616,
+    "quoteVolume": 5182.40671368,
+    "weightedAverage": 3.901e-05
+  },
+  {
+    "date": 1494059400,
+    "high": 3.997e-05,
+    "low": 3.87e-05,
+    "open": 3.896e-05,
+    "close": 3.996e-05,
+    "volume": 5.28323963,
+    "quoteVolume": 134697.17305925,
+    "weightedAverage": 3.922e-05
+  },
+  {
+    "date": 1494061200,
+    "high": 4.041e-05,
+    "low": 3.996e-05,
+    "open": 3.996e-05,
+    "close": 4.041e-05,
+    "volume": 2.88769186,
+    "quoteVolume": 71716.59086039,
+    "weightedAverage": 4.026e-05
+  },
+  {
+    "date": 1494063000,
+    "high": 4.06e-05,
+    "low": 4.005e-05,
+    "open": 4.032e-05,
+    "close": 4.026e-05,
+    "volume": 3.19714864,
+    "quoteVolume": 79297.9897912,
+    "weightedAverage": 4.031e-05
+  },
+  {
+    "date": 1494064800,
+    "high": 4.232e-05,
+    "low": 4.046e-05,
+    "open": 4.046e-05,
+    "close": 4.22e-05,
+    "volume": 11.24653895,
+    "quoteVolume": 270357.86047594,
+    "weightedAverage": 4.159e-05
+  },
+  {
+    "date": 1494066600,
+    "high": 4.229e-05,
+    "low": 4.128e-05,
+    "open": 4.22e-05,
+    "close": 4.148e-05,
+    "volume": 3.19165556,
+    "quoteVolume": 76083.585777,
+    "weightedAverage": 4.194e-05
+  },
+  {
+    "date": 1494068400,
+    "high": 4.168e-05,
+    "low": 4.092e-05,
+    "open": 4.148e-05,
+    "close": 4.128e-05,
+    "volume": 2.9607665,
+    "quoteVolume": 71974.12168062,
+    "weightedAverage": 4.113e-05
+  },
+  {
+    "date": 1494070200,
+    "high": 4.107e-05,
+    "low": 4.087e-05,
+    "open": 4.107e-05,
+    "close": 4.1e-05,
+    "volume": 2.04305831,
+    "quoteVolume": 49840.31317494,
+    "weightedAverage": 4.099e-05
+  },
+  {
+    "date": 1494072000,
+    "high": 4.279e-05,
+    "low": 4.1e-05,
+    "open": 4.106e-05,
+    "close": 4.224e-05,
+    "volume": 14.14542202,
+    "quoteVolume": 333473.21957993,
+    "weightedAverage": 4.241e-05
+  },
+  {
+    "date": 1494073800,
+    "high": 4.224e-05,
+    "low": 4.094e-05,
+    "open": 4.224e-05,
+    "close": 4.099e-05,
+    "volume": 12.59606769,
+    "quoteVolume": 305940.9136024,
+    "weightedAverage": 4.117e-05
+  },
+  {
+    "date": 1494075600,
+    "high": 4.181e-05,
+    "low": 4.092e-05,
+    "open": 4.111e-05,
+    "close": 4.148e-05,
+    "volume": 5.84897536,
+    "quoteVolume": 141268.79792203,
+    "weightedAverage": 4.14e-05
+  },
+  {
+    "date": 1494077400,
+    "high": 4.156e-05,
+    "low": 4.1e-05,
+    "open": 4.156e-05,
+    "close": 4.1e-05,
+    "volume": 2.43138859,
+    "quoteVolume": 58865.97376067,
+    "weightedAverage": 4.13e-05
+  },
+  {
+    "date": 1494079200,
+    "high": 4.128e-05,
+    "low": 4.087e-05,
+    "open": 4.123e-05,
+    "close": 4.128e-05,
+    "volume": 1.06671226,
+    "quoteVolume": 26019.20989403,
+    "weightedAverage": 4.099e-05
+  },
+  {
+    "date": 1494081000,
+    "high": 4.128e-05,
+    "low": 4.077e-05,
+    "open": 4.128e-05,
+    "close": 4.077e-05,
+    "volume": 1.92985766,
+    "quoteVolume": 47214.60383997,
+    "weightedAverage": 4.087e-05
+  },
+  {
+    "date": 1494082800,
+    "high": 4.169e-05,
+    "low": 4.08e-05,
+    "open": 4.089e-05,
+    "close": 4.088e-05,
+    "volume": 7.88840031,
+    "quoteVolume": 192144.57380972,
+    "weightedAverage": 4.105e-05
+  },
+  {
+    "date": 1494084600,
+    "high": 4.127e-05,
+    "low": 4.011e-05,
+    "open": 4.126e-05,
+    "close": 4.046e-05,
+    "volume": 5.05784301,
+    "quoteVolume": 125100.60344385,
+    "weightedAverage": 4.043e-05
+  },
+  {
+    "date": 1494086400,
+    "high": 4.087e-05,
+    "low": 4.01e-05,
+    "open": 4.046e-05,
+    "close": 4.046e-05,
+    "volume": 5.88822895,
+    "quoteVolume": 145697.31264182,
+    "weightedAverage": 4.041e-05
+  },
+  {
+    "date": 1494088200,
+    "high": 4.066e-05,
+    "low": 4e-05,
+    "open": 4.066e-05,
+    "close": 4.026e-05,
+    "volume": 10.81291095,
+    "quoteVolume": 268880.72528819,
+    "weightedAverage": 4.021e-05
+  },
+  {
+    "date": 1494090000,
+    "high": 4.046e-05,
+    "low": 4e-05,
+    "open": 4.026e-05,
+    "close": 4.035e-05,
+    "volume": 10.32034236,
+    "quoteVolume": 256659.30459616,
+    "weightedAverage": 4.021e-05
+  },
+  {
+    "date": 1494091800,
+    "high": 4.046e-05,
+    "low": 3.996e-05,
+    "open": 4.034e-05,
+    "close": 4.046e-05,
+    "volume": 11.46629933,
+    "quoteVolume": 286067.30099388,
+    "weightedAverage": 4.008e-05
+  },
+  {
+    "date": 1494093600,
+    "high": 4.382e-05,
+    "low": 4.006e-05,
+    "open": 4.028e-05,
+    "close": 4.2e-05,
+    "volume": 38.63307663,
+    "quoteVolume": 916139.91297892,
+    "weightedAverage": 4.216e-05
+  },
+  {
+    "date": 1494095400,
+    "high": 4.198e-05,
+    "low": 4.134e-05,
+    "open": 4.198e-05,
+    "close": 4.149e-05,
+    "volume": 2.78815518,
+    "quoteVolume": 67092.39960234,
+    "weightedAverage": 4.155e-05
+  },
+  {
+    "date": 1494097200,
+    "high": 4.272e-05,
+    "low": 4.149e-05,
+    "open": 4.154e-05,
+    "close": 4.24e-05,
+    "volume": 8.13754981,
+    "quoteVolume": 193350.94186106,
+    "weightedAverage": 4.208e-05
+  },
+  {
+    "date": 1494099000,
+    "high": 4.292e-05,
+    "low": 4.24e-05,
+    "open": 4.24e-05,
+    "close": 4.265e-05,
+    "volume": 2.0091094,
+    "quoteVolume": 47076.30919748,
+    "weightedAverage": 4.267e-05
+  },
+  {
+    "date": 1494100800,
+    "high": 4.292e-05,
+    "low": 4.265e-05,
+    "open": 4.278e-05,
+    "close": 4.292e-05,
+    "volume": 1.26175745,
+    "quoteVolume": 29427.34986154,
+    "weightedAverage": 4.287e-05
+  },
+  {
+    "date": 1494102600,
+    "high": 4.396e-05,
+    "low": 4.293e-05,
+    "open": 4.293e-05,
+    "close": 4.339e-05,
+    "volume": 6.61606814,
+    "quoteVolume": 152267.04312634,
+    "weightedAverage": 4.345e-05
+  },
+  {
+    "date": 1494104400,
+    "high": 4.382e-05,
+    "low": 4.142e-05,
+    "open": 4.382e-05,
+    "close": 4.202e-05,
+    "volume": 12.51560377,
+    "quoteVolume": 297437.99572022,
+    "weightedAverage": 4.207e-05
+  },
+  {
+    "date": 1494106200,
+    "high": 4.232e-05,
+    "low": 4.169e-05,
+    "open": 4.23e-05,
+    "close": 4.171e-05,
+    "volume": 4.47234767,
+    "quoteVolume": 106761.99804945,
+    "weightedAverage": 4.189e-05
+  },
+  {
+    "date": 1494108000,
+    "high": 4.244e-05,
+    "low": 4.19e-05,
+    "open": 4.19e-05,
+    "close": 4.244e-05,
+    "volume": 1.74672848,
+    "quoteVolume": 41279.5645136,
+    "weightedAverage": 4.231e-05
+  },
+  {
+    "date": 1494109800,
+    "high": 4.274e-05,
+    "low": 4.128e-05,
+    "open": 4.244e-05,
+    "close": 4.174e-05,
+    "volume": 4.32060472,
+    "quoteVolume": 103140.97021663,
+    "weightedAverage": 4.189e-05
+  },
+  {
+    "date": 1494111600,
+    "high": 4.244e-05,
+    "low": 4.171e-05,
+    "open": 4.187e-05,
+    "close": 4.231e-05,
+    "volume": 1.89313366,
+    "quoteVolume": 44977.41868564,
+    "weightedAverage": 4.209e-05
+  },
+  {
+    "date": 1494113400,
+    "high": 4.249e-05,
+    "low": 4.211e-05,
+    "open": 4.232e-05,
+    "close": 4.211e-05,
+    "volume": 1.89605819,
+    "quoteVolume": 44813.88859157,
+    "weightedAverage": 4.23e-05
+  },
+  {
+    "date": 1494115200,
+    "high": 4.232e-05,
+    "low": 4.19e-05,
+    "open": 4.232e-05,
+    "close": 4.2e-05,
+    "volume": 0.46967183,
+    "quoteVolume": 11170.41352605,
+    "weightedAverage": 4.204e-05
+  },
+  {
+    "date": 1494117000,
+    "high": 4.249e-05,
+    "low": 4.231e-05,
+    "open": 4.231e-05,
+    "close": 4.249e-05,
+    "volume": 1.29432957,
+    "quoteVolume": 30535.8046795,
+    "weightedAverage": 4.238e-05
+  },
+  {
+    "date": 1494118800,
+    "high": 4.285e-05,
+    "low": 4.149e-05,
+    "open": 4.249e-05,
+    "close": 4.253e-05,
+    "volume": 4.82032327,
+    "quoteVolume": 113782.29012912,
+    "weightedAverage": 4.236e-05
+  },
+  {
+    "date": 1494120600,
+    "high": 4.292e-05,
+    "low": 4.233e-05,
+    "open": 4.253e-05,
+    "close": 4.288e-05,
+    "volume": 0.88230113,
+    "quoteVolume": 20659.17862061,
+    "weightedAverage": 4.27e-05
+  },
+  {
+    "date": 1494122400,
+    "high": 4.291e-05,
+    "low": 4.155e-05,
+    "open": 4.256e-05,
+    "close": 4.17e-05,
+    "volume": 4.11927199,
+    "quoteVolume": 98157.33895198,
+    "weightedAverage": 4.196e-05
+  },
+  {
+    "date": 1494124200,
+    "high": 4.18e-05,
+    "low": 4.169e-05,
+    "open": 4.17e-05,
+    "close": 4.18e-05,
+    "volume": 1.90922167,
+    "quoteVolume": 45678.15329802,
+    "weightedAverage": 4.179e-05
+  },
+  {
+    "date": 1494126000,
+    "high": 4.2e-05,
+    "low": 4.128e-05,
+    "open": 4.18e-05,
+    "close": 4.169e-05,
+    "volume": 8.15931696,
+    "quoteVolume": 195232.15158784,
+    "weightedAverage": 4.179e-05
+  },
+  {
+    "date": 1494127800,
+    "high": 4.232e-05,
+    "low": 4.148e-05,
+    "open": 4.169e-05,
+    "close": 4.232e-05,
+    "volume": 5.66476398,
+    "quoteVolume": 135008.37765795,
+    "weightedAverage": 4.195e-05
+  },
+  {
+    "date": 1494129600,
+    "high": 4.25e-05,
+    "low": 4.201e-05,
+    "open": 4.233e-05,
+    "close": 4.232e-05,
+    "volume": 10.59831195,
+    "quoteVolume": 249514.97083603,
+    "weightedAverage": 4.247e-05
+  },
+  {
+    "date": 1494131400,
+    "high": 4.35e-05,
+    "low": 4.231e-05,
+    "open": 4.231e-05,
+    "close": 4.35e-05,
+    "volume": 8.18753576,
+    "quoteVolume": 190074.47569002,
+    "weightedAverage": 4.307e-05
+  },
+  {
+    "date": 1494133200,
+    "high": 4.382e-05,
+    "low": 4.318e-05,
+    "open": 4.35e-05,
+    "close": 4.361e-05,
+    "volume": 2.75938892,
+    "quoteVolume": 63232.78865721,
+    "weightedAverage": 4.363e-05
+  },
+  {
+    "date": 1494135000,
+    "high": 4.404e-05,
+    "low": 4.36e-05,
+    "open": 4.361e-05,
+    "close": 4.4e-05,
+    "volume": 3.79762116,
+    "quoteVolume": 86469.47971912,
+    "weightedAverage": 4.391e-05
+  },
+  {
+    "date": 1494136800,
+    "high": 4.428e-05,
+    "low": 4.365e-05,
+    "open": 4.4e-05,
+    "close": 4.404e-05,
+    "volume": 6.15454843,
+    "quoteVolume": 139640.38933706,
+    "weightedAverage": 4.407e-05
+  },
+  {
+    "date": 1494138600,
+    "high": 4.45e-05,
+    "low": 4.405e-05,
+    "open": 4.426e-05,
+    "close": 4.405e-05,
+    "volume": 6.19537186,
+    "quoteVolume": 139954.90631244,
+    "weightedAverage": 4.426e-05
+  },
+  {
+    "date": 1494140400,
+    "high": 4.45e-05,
+    "low": 4.274e-05,
+    "open": 4.427e-05,
+    "close": 4.28e-05,
+    "volume": 13.92226633,
+    "quoteVolume": 321507.76355249,
+    "weightedAverage": 4.33e-05
+  },
+  {
+    "date": 1494142200,
+    "high": 4.382e-05,
+    "low": 4.28e-05,
+    "open": 4.296e-05,
+    "close": 4.317e-05,
+    "volume": 12.26744134,
+    "quoteVolume": 284539.99961106,
+    "weightedAverage": 4.311e-05
+  },
+  {
+    "date": 1494144000,
+    "high": 4.331e-05,
+    "low": 4.287e-05,
+    "open": 4.317e-05,
+    "close": 4.33e-05,
+    "volume": 5.14014742,
+    "quoteVolume": 119323.70609158,
+    "weightedAverage": 4.307e-05
+  },
+  {
+    "date": 1494145800,
+    "high": 4.394e-05,
+    "low": 4.317e-05,
+    "open": 4.328e-05,
+    "close": 4.372e-05,
+    "volume": 1.26907492,
+    "quoteVolume": 29171.1765594,
+    "weightedAverage": 4.35e-05
+  },
+  {
+    "date": 1494147600,
+    "high": 4.431e-05,
+    "low": 4.214e-05,
+    "open": 4.394e-05,
+    "close": 4.3e-05,
+    "volume": 16.03590329,
+    "quoteVolume": 371657.6663104,
+    "weightedAverage": 4.314e-05
+  },
+  {
+    "date": 1494149400,
+    "high": 4.339e-05,
+    "low": 4.194e-05,
+    "open": 4.316e-05,
+    "close": 4.304e-05,
+    "volume": 8.60254095,
+    "quoteVolume": 201980.35468073,
+    "weightedAverage": 4.259e-05
+  },
+  {
+    "date": 1494151200,
+    "high": 4.339e-05,
+    "low": 4.213e-05,
+    "open": 4.305e-05,
+    "close": 4.339e-05,
+    "volume": 4.55660853,
+    "quoteVolume": 106470.1234267,
+    "weightedAverage": 4.279e-05
+  },
+  {
+    "date": 1494153000,
+    "high": 4.341e-05,
+    "low": 4.156e-05,
+    "open": 4.339e-05,
+    "close": 4.258e-05,
+    "volume": 17.40563174,
+    "quoteVolume": 412426.7230706,
+    "weightedAverage": 4.22e-05
+  },
+  {
+    "date": 1494154800,
+    "high": 4.311e-05,
+    "low": 4.259e-05,
+    "open": 4.259e-05,
+    "close": 4.296e-05,
+    "volume": 1.96419008,
+    "quoteVolume": 45787.97490633,
+    "weightedAverage": 4.289e-05
+  },
+  {
+    "date": 1494156600,
+    "high": 4.355e-05,
+    "low": 4.274e-05,
+    "open": 4.294e-05,
+    "close": 4.317e-05,
+    "volume": 10.48416366,
+    "quoteVolume": 242251.15827513,
+    "weightedAverage": 4.327e-05
+  },
+  {
+    "date": 1494158400,
+    "high": 4.355e-05,
+    "low": 4.311e-05,
+    "open": 4.335e-05,
+    "close": 4.355e-05,
+    "volume": 2.39890001,
+    "quoteVolume": 55371.73340958,
+    "weightedAverage": 4.332e-05
+  },
+  {
+    "date": 1494160200,
+    "high": 4.373e-05,
+    "low": 4.356e-05,
+    "open": 4.356e-05,
+    "close": 4.37e-05,
+    "volume": 5.70370371,
+    "quoteVolume": 130565.53838417,
+    "weightedAverage": 4.368e-05
+  },
+  {
+    "date": 1494162000,
+    "high": 4.399e-05,
+    "low": 4.355e-05,
+    "open": 4.372e-05,
+    "close": 4.37e-05,
+    "volume": 6.47884298,
+    "quoteVolume": 148052.35963822,
+    "weightedAverage": 4.376e-05
+  },
+  {
+    "date": 1494163800,
+    "high": 4.418e-05,
+    "low": 4.28e-05,
+    "open": 4.37e-05,
+    "close": 4.316e-05,
+    "volume": 7.98141117,
+    "quoteVolume": 183883.50591067,
+    "weightedAverage": 4.34e-05
+  },
+  {
+    "date": 1494165600,
+    "high": 4.35e-05,
+    "low": 4.218e-05,
+    "open": 4.317e-05,
+    "close": 4.274e-05,
+    "volume": 11.56678372,
+    "quoteVolume": 271367.9280855,
+    "weightedAverage": 4.262e-05
+  },
+  {
+    "date": 1494167400,
+    "high": 4.292e-05,
+    "low": 4.1e-05,
+    "open": 4.274e-05,
+    "close": 4.184e-05,
+    "volume": 24.43649998,
+    "quoteVolume": 582899.11423993,
+    "weightedAverage": 4.192e-05
+  },
+  {
+    "date": 1494169200,
+    "high": 4.243e-05,
+    "low": 4.03e-05,
+    "open": 4.19e-05,
+    "close": 4.062e-05,
+    "volume": 26.86701396,
+    "quoteVolume": 653626.50961271,
+    "weightedAverage": 4.11e-05
+  },
+  {
+    "date": 1494171000,
+    "high": 4.181e-05,
+    "low": 4.062e-05,
+    "open": 4.062e-05,
+    "close": 4.107e-05,
+    "volume": 7.76771628,
+    "quoteVolume": 188563.99103409,
+    "weightedAverage": 4.119e-05
+  },
+  {
+    "date": 1494172800,
+    "high": 4.23e-05,
+    "low": 4.087e-05,
+    "open": 4.107e-05,
+    "close": 4.229e-05,
+    "volume": 3.27430439,
+    "quoteVolume": 78039.65037617,
+    "weightedAverage": 4.195e-05
+  },
+  {
+    "date": 1494174600,
+    "high": 4.253e-05,
+    "low": 4.231e-05,
+    "open": 4.231e-05,
+    "close": 4.25e-05,
+    "volume": 1.70897412,
+    "quoteVolume": 40312.53830825,
+    "weightedAverage": 4.239e-05
+  },
+  {
+    "date": 1494176400,
+    "high": 4.311e-05,
+    "low": 4.229e-05,
+    "open": 4.251e-05,
+    "close": 4.274e-05,
+    "volume": 11.35566307,
+    "quoteVolume": 266055.57598214,
+    "weightedAverage": 4.268e-05
+  },
+  {
+    "date": 1494178200,
+    "high": 4.311e-05,
+    "low": 4.194e-05,
+    "open": 4.281e-05,
+    "close": 4.212e-05,
+    "volume": 4.03620422,
+    "quoteVolume": 94843.83822941,
+    "weightedAverage": 4.255e-05
+  },
+  {
+    "date": 1494180000,
+    "high": 4.232e-05,
+    "low": 4.111e-05,
+    "open": 4.225e-05,
+    "close": 4.152e-05,
+    "volume": 5.7313941,
+    "quoteVolume": 137606.87310207,
+    "weightedAverage": 4.165e-05
+  },
+  {
+    "date": 1494181800,
+    "high": 4.221e-05,
+    "low": 4.151e-05,
+    "open": 4.152e-05,
+    "close": 4.151e-05,
+    "volume": 4.34088336,
+    "quoteVolume": 103570.55690042,
+    "weightedAverage": 4.191e-05
+  },
+  {
+    "date": 1494183600,
+    "high": 4.187e-05,
+    "low": 4.151e-05,
+    "open": 4.169e-05,
+    "close": 4.184e-05,
+    "volume": 2.39555109,
+    "quoteVolume": 57519.98259901,
+    "weightedAverage": 4.164e-05
+  },
+  {
+    "date": 1494185400,
+    "high": 4.22e-05,
+    "low": 4.1e-05,
+    "open": 4.187e-05,
+    "close": 4.1e-05,
+    "volume": 23.12648092,
+    "quoteVolume": 557864.07782137,
+    "weightedAverage": 4.145e-05
+  },
+  {
+    "date": 1494187200,
+    "high": 4.195e-05,
+    "low": 4.07e-05,
+    "open": 4.11e-05,
+    "close": 4.148e-05,
+    "volume": 7.43425617,
+    "quoteVolume": 180613.39274025,
+    "weightedAverage": 4.116e-05
+  },
+  {
+    "date": 1494189000,
+    "high": 4.201e-05,
+    "low": 4.148e-05,
+    "open": 4.169e-05,
+    "close": 4.199e-05,
+    "volume": 6.08766126,
+    "quoteVolume": 145143.83347643,
+    "weightedAverage": 4.194e-05
+  },
+  {
+    "date": 1494190800,
+    "high": 4.197e-05,
+    "low": 4.036e-05,
+    "open": 4.197e-05,
+    "close": 4.067e-05,
+    "volume": 15.87164105,
+    "quoteVolume": 388514.94198169,
+    "weightedAverage": 4.085e-05
+  },
+  {
+    "date": 1494192600,
+    "high": 4.147e-05,
+    "low": 4.03e-05,
+    "open": 4.046e-05,
+    "close": 4.032e-05,
+    "volume": 11.48109672,
+    "quoteVolume": 282928.15723584,
+    "weightedAverage": 4.057e-05
+  },
+  {
+    "date": 1494194400,
+    "high": 4.067e-05,
+    "low": 4.031e-05,
+    "open": 4.046e-05,
+    "close": 4.066e-05,
+    "volume": 2.67766455,
+    "quoteVolume": 66228.57378616,
+    "weightedAverage": 4.043e-05
+  }
+]

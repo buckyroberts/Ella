@@ -1,4 +1,5 @@
 import json
+import time
 from urllib import parse, request
 from utils.tools import write_json
 
@@ -29,3 +30,4 @@ def download_market_data(tickers):
         }
         query_string = parse.urlencode(params)
         save_response(ticker, f"{url}?{query_string}")
+        time.sleep(1)

@@ -19,10 +19,7 @@ def run_poloniex_trader():
 
 
 if __name__ == "__main__":
-
-    # tickers = get_tickers()
-    tickers = ["BTC_AMP", "BTC_ARDR"]
+    tickers = get_tickers()
     download_market_data(tickers)
-
     for _ in range(100):
         run_poloniex_trader()

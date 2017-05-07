@@ -33,3 +33,12 @@ def operator_to_str(func):
         return '>'
     if func == lt:
         return '<'
+
+
+def write_json(file, data):
+    """
+    Write JSON file
+    """
+
+    with open(file, 'w') as f:
+        json.dump(data, f)

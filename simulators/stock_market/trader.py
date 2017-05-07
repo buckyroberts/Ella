@@ -1,13 +1,15 @@
 from os.path import dirname, join, realpath
-from utils.tools import json_to_list
+from utils.tools import json_to_list, write_json
 
 
 class Trader:
 
     def __init__(self):
         self.cash = 1000
+        self.input_file = join(dirname(realpath(__file__)), 'data/input.json')
+        self.output_file = join(dirname(realpath(__file__)), 'data/output.json')
         self.portfolio = []
-        self.data = json_to_list(join(dirname(realpath(__file__)), 'data.json'))
+        self.data = json_to_list(self.input_file)
         self.actions = {
             'BUY': lambda stock: self.buy(stock),
             'SELL': lambda stock: self.sell(stock['price'])
@@ -46,3 +48,10 @@ class Trader:
 
         print('SELLING:', last_price)
         print('CURRENT:', self.get_current_value(last_price))
+
+    def write_results(self):
+        """
+        Write results to JSON file 
+        """
+
+        write_json(self.output_file, {'sample': 100})

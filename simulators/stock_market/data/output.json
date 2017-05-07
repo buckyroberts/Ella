@@ -1,1 +1,1 @@
-{"neurons": ["volume > 4800 - BUY", "price > 25.57 - SELL"], "results": 1024.88}
+{"neurons": ["price < 32.63 - BUY", "price > 25.57 - SELL"], "results": 1021.64}

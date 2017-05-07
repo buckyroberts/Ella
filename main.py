@@ -18,7 +18,9 @@ def run_poloniex_trader():
 
 
 if __name__ == "__main__":
-    tickers = get_tickers()
-    print(tickers)
+
+    for ticker in get_tickers():
+        print(ticker)
+
     for _ in range(100):
         run_poloniex_trader()

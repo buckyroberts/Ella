@@ -24,9 +24,6 @@ class Trader:
         self.cash -= stock['price']
         self.portfolio.append(stock)
 
-        print('BUYING:', stock)
-        print('CURRENT:', self.get_current_value(stock['price']))
-
     def get_current_best(self):
         """
         Current best results
@@ -48,14 +45,9 @@ class Trader:
         Increase cash and remove stock from portfolio
         """
 
-        if not len(self.portfolio):
-            return
-
-        self.cash += last_price
-        self.portfolio.pop()
-
-        print('SELLING:', last_price)
-        print('CURRENT:', self.get_current_value(last_price))
+        if len(self.portfolio):
+            self.cash += last_price
+            self.portfolio.pop()
 
     def update_results(self, neurons, final_value):
         """
@@ -66,7 +58,6 @@ class Trader:
             f"\nNew best: {final_value} "
             f"\nOld best: {self.current_best} "
         )
-
         self.current_best = final_value
         data = {'neurons': neurons, 'results': final_value}
         write_json(self.output_file, data)

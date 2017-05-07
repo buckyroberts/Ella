@@ -29,5 +29,4 @@ class Neuron:
         """
 
         if self.condition.evaluate(row):
-            self.display_signal(self.condition, row)
             self.action.event(row)

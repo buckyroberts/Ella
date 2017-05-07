@@ -15,10 +15,6 @@ class Brain:
         Iterate over the dataset row by row and invoke all action events (fire the neuron) if a condition is met
         """
 
-        for neuron in self.neurons:
-            print(neuron)
-
         for row in self.data:
-            print(f"\n{row}")
             for neuron in self.neurons:
                 neuron.signal(row)

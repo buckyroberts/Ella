@@ -2884,9 +2884,19 @@
     "high": 0.0605324,
     "low": 0.0599,
     "open": 0.0602,
-    "close": 0.0599081,
-    "volume": 547.00246927,
-    "quoteVolume": 9104.94577513,
-    "weightedAverage": 0.0600775
+    "close": 0.05990186,
+    "volume": 588.74526514,
+    "quoteVolume": 9801.79484956,
+    "weightedAverage": 0.06006504
+  },
+  {
+    "date": 1494190800,
+    "high": 0.06019944,
+    "low": 0.05990185,
+    "open": 0.05990807,
+    "close": 0.05999999,
+    "volume": 106.96091688,
+    "quoteVolume": 1782.22935171,
+    "weightedAverage": 0.06001523
   }
 ]

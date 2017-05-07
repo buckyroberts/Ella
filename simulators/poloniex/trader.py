@@ -5,9 +5,9 @@ from utils.tools import read_json, write_json
 class Trader:
 
     def __init__(self):
-        self.input_file = join(dirname(realpath(__file__)), 'data/input.json')
-        self.output_file = join(dirname(realpath(__file__)), 'data/output.json')
-        self.btc = 10
+        self.input_file = join(dirname(realpath(__file__)), 'data/BTC_ETH.json')
+        self.output_file = join(dirname(realpath(__file__)), 'data/BTC_ETH_OUTPUT.json')
+        self.btc = 1000
         self.current_best = self.get_current_best()
         self.data = read_json(self.input_file)
         self.portfolio = []

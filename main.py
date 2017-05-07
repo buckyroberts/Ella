@@ -1,5 +1,6 @@
 from models.brain import Brain
 from poloniex.trader import Trader
+from scripts.tickers import get_tickers
 
 
 def run_poloniex_trader():
@@ -17,5 +18,9 @@ def run_poloniex_trader():
 
 
 if __name__ == "__main__":
-    for _ in range(10000):
+
+    tickers = get_tickers()
+    print(tickers)
+
+    for _ in range(100):
         run_poloniex_trader()

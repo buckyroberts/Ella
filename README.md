@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ella is as self-improving decision organism.
+Ella is a self-improving decision organism.
 
 ## Overview
 

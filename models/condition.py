@@ -1,5 +1,5 @@
 import random
-from operator import gt, lt
+from operator import gt, lt, ge, le
 from utils.tools import historical_values, operator_to_str
 
 
@@ -34,7 +34,7 @@ class Condition:
         Random comparison operator
         """
 
-        return random.choice([gt, lt])
+        return random.choice([gt, lt, ge, le])
 
     def get_random_value(self):
         """

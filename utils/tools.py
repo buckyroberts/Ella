@@ -1,5 +1,5 @@
 import json
-from operator import gt, lt
+from operator import gt, lt, ge, le
 
 
 def historical_values(data):
@@ -36,7 +36,10 @@ def operator_to_str(func):
         return '>'
     if func == lt:
         return '<'
-
+    if func == ge:
+        return '>='
+    if func == le:
+        return '<='
 
 def write_json(file, data):
     """
